@@ -24,10 +24,38 @@ echo '<!DOCTYPE html>
 			<a href="/about" class="rollover5"></a>
 		</div>
 		
-		<div id="content">
-			<p>Шаг1: <a href="/reg">Зарегистрируйтесь</a> в проекте. Запомните ваш логин и пароль.</p>
-			<p>Шаг2: <a href="/download">Загрузите</a> клиентское ПО для всех необходимых устройств. При входе используйте логин и пароль указанные при регистрации.</p>
-			<p>Шаг3: Изучайте английский язык и <a href="/users">следите</a> за вашим прогрессом и прогрессом других пользователей.</p>
+		<div id="content">';
+		
+echo '<table>
+	<tr>
+		<b>
+		<td>Номер</td>
+		<td>Пользователь</td>
+		<td>Регистрация</td>
+		<td>Входов</td>
+		</b>
+	</tr>';
+$dbh = new PDO('sqlite:../data.db3') or die("cannot open the database");
+$query =  "SELECT * from Users";
+foreach ($dbh->query($query) as $row)
+{
+	echo '<tr>';
+	echo '<td>';
+	echo $row[0];
+	echo '</td><td>';
+	echo $row[1];
+	echo '</td><td>';
+	echo $row[3];
+	echo '</td><td>';
+	echo $row[4];
+	echo '</td></tr>';
+}
+	// Запишем что-нибудь в таблицу 
+	//sqlite_query($db, "INSERT INTO table1(field1, field2) VALUES ('PHP5+', 'Apache');");
+echo '</table>';
+	
+	
+echo '
 		</div>
 
 		<div class="hFooter">
