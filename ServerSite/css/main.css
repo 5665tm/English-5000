@@ -1,0 +1,187 @@
+﻿html, body
+{
+	background-image: url(/img/background.png);
+	background-repeat: repeat-x;
+	background-color: #A5B048;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	position:relative; /* Если этого не задать, в Опере почему-то футер не прижимается сразу*/
+}
+
+#container
+{
+	margin: 0px auto;
+	width: 960px;
+	min-height:100%; /* Задаем минимальную высоту 100% */
+}
+
+#header
+{
+	background-image: url(/img/head.png);
+	background-repeat: repeat-x;
+	height: 245px;
+	width: 960px;
+	/*min-height: 100%;*/
+}
+
+.hFooter
+{ /* это распорка в основном блоке - резервируем место для подвала */
+	clear: both;
+	height: 60px; /* высота нашего подвала */
+}
+
+#navigation
+{
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 20px;
+	text-align: center;
+	width: 960px;
+	height: 35px;
+}
+
+#content
+{
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	margin: 60px 0px;
+	padding: 30px ;
+	border-radius: 30px;
+	-khtml-border-radius: 30px;
+	/*behavior: url(http://cat.exlain.ru/pie/PIE.php);*/
+	box-shadow: 0px 0px 25px 15px #A2B26D ;
+	border: 3px solid #8DA462;
+	background: #A2B26D;
+	width: 900px;
+}
+
+#footer
+{
+	color: #3f5428;
+	background-image: url(/img/footer.png);
+	background-repeat: repeat-x;
+	height: 89px;
+	margin-top: -89px; /* отрицательный маргин, равный высоте футера */ 
+	position:relative;
+	 /*Чтобы футер "всплыл" из под дива #container,*/
+	/*если этого не сделать,*/
+	/*то ссылки в футере не кликабельны и нельзя выделить текст*/
+}
+
+p
+{
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 20px;
+	color: #3f5428;
+}
+
+a
+{
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 20px;
+	color: #3f5428;
+}
+
+#text
+{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 20px;
+	color: #3f5428;
+}
+
+#font30
+{
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 30px;
+	color: #3f5428;
+}
+
+#font30u
+{
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 30px;
+	color: #3f5428;
+}
+
+#font60
+{
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 60px;
+	color: #3f5428;
+}
+
+a.rollover1
+{
+	background: url(/img/but_hom.png); /* Путь к файлу с исходным  рисунком */
+	display: inline-block; /* Рисунок как блочный элемент */
+	width: 139px; /* Ширина рисунка в пикселах */
+	height: 35px; /* Высота рисунка */
+}
+
+a.rollover1:hover
+{
+	background-position: 0 -35px; /* Смещение фона */
+}
+
+a.rollover2
+{
+	background: url(/img/but_gal.png); /* Путь к файлу с исходным  рисунком */
+	display: inline-block; /* Рисунок как блочный элемент */
+	width: 139px; /* Ширина рисунка в пикселах */
+	height: 35px; /* Высота рисунка */
+}
+
+a.rollover2:hover
+{
+	background-position: 0 -35px; /* Смещение фона */
+}
+
+a.rollover3
+{
+	background: url(/img/but_mne.png); /* Путь к файлу с исходным  рисунком */
+	display: inline-block; /* Рисунок как блочный элемент */
+	width: 139px; /* Ширина рисунка в пикселах */
+	height: 35px; /* Высота рисунка */
+}
+
+a.rollover3:hover
+{
+	background-position: 0 -35px; /* Смещение фона */
+}
+
+a.rollover4
+{
+	background: url(/img/but_pol.png); /* Путь к файлу с исходным  рисунком */
+	display: inline-block; /* Рисунок как блочный элемент */
+	width: 139px; /* Ширина рисунка в пикселах */
+	height: 35px; /* Высота рисунка */
+}
+
+a.rollover4:hover
+{
+	background-position: 0 -35px; /* Смещение фона */
+}
+
+a.rollover5
+{
+	background: url(/img/but_osa.png); /* Путь к файлу с исходным  рисунком */
+	display: inline-block;; /* Рисунок как блочный элемент */
+	width: 139px; /* Ширина рисунка в пикселах */
+	height: 35px; /* Высота рисунка */
+}
+
+a.rollover5:hover
+{
+	background-position: 0 -35px; /* Смещение фона */
+}
+
+table, th, td
+{
+border-style:solid;
+border-width:1px;
+border-collapse:collapse;
+padding:2px;
+}

@@ -1,0 +1,4 @@
+D:\Desktop\English-5000\ClientWindows\Core5000\bin\Debug\Core5000.dll
+D:\Desktop\English-5000\ClientWindows\Core5000\bin\Debug\Core5000.pdb
+D:\Desktop\English-5000\ClientWindows\Core5000\obj\Debug\Core5000.dll
+D:\Desktop\English-5000\ClientWindows\Core5000\obj\Debug\Core5000.pdb
