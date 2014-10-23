@@ -1,0 +1,5 @@
+D:\Desktop\English-5000\Dictionaries\2.UnionAllDic\UnionAllDic\bin\Debug\UnionAllDic.exe
+D:\Desktop\English-5000\Dictionaries\2.UnionAllDic\UnionAllDic\bin\Debug\UnionAllDic.pdb
+D:\Desktop\English-5000\Dictionaries\2.UnionAllDic\UnionAllDic\obj\Debug\UnionAllDic.csprojResolveAssemblyReference.cache
+D:\Desktop\English-5000\Dictionaries\2.UnionAllDic\UnionAllDic\obj\Debug\UnionAllDic.exe
+D:\Desktop\English-5000\Dictionaries\2.UnionAllDic\UnionAllDic\obj\Debug\UnionAllDic.pdb

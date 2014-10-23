@@ -1,0 +1,5 @@
+D:\Desktop\English-5000\Dictionaries\ParseDicOxford\ParseDicOxford\bin\Debug\ParseDicOxford.exe
+D:\Desktop\English-5000\Dictionaries\ParseDicOxford\ParseDicOxford\bin\Debug\ParseDicOxford.pdb
+D:\Desktop\English-5000\Dictionaries\ParseDicOxford\ParseDicOxford\obj\Debug\ParseDicOxford.csprojResolveAssemblyReference.cache
+D:\Desktop\English-5000\Dictionaries\ParseDicOxford\ParseDicOxford\obj\Debug\ParseDicOxford.exe
+D:\Desktop\English-5000\Dictionaries\ParseDicOxford\ParseDicOxford\obj\Debug\ParseDicOxford.pdb
