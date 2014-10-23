@@ -1,0 +1,4032 @@
+0*a*неопределенный артикль перед согласными
+1*a.m.*(ante meridiem) до полудня
+2*abandon*покидать
+3*abandoned*заброшенный
+4*ability*способность
+5*able*способный
+6*about*кругом
+7*about*о
+8*above*наверху
+9*above*над
+10*abroad*за границей
+11*absence*отсутствие
+12*absent*отсутствующий
+13*absolute*абсолютный
+14*absolutely*абсолютно
+15*absorb*всасывать
+16*abuse*злоупотребление
+17*academic*академический
+18*accent*акцент
+19*accept*принимать
+20*acceptable*приемлемый
+21*access*доступ
+22*accident*авария
+23*accidental*случайный
+24*accidentally*случайно
+25*accompany*сопровождать
+26*according to*в соответствии с
+27*account*рассматривать
+28*account*счет
+29*accurate*верный
+30*accurately*точно
+31*accuse*винить
+32*achieve*добиваться
+33*achievement*достижение
+34*acid*кислота
+35*acknowledge*сознавать
+36*acquire*обзаводиться
+37*across*сквозь
+38*across*поперек
+39*act*дело
+40*act*действовать
+41*action*действие
+42*active*активный
+43*activist*активист
+44*activity*активность
+45*actor*актер
+46*actress*актриса
+47*actual*реальный
+48*actually*фактически
+49*ad*объявление
+50*add*прибавлять
+51*addition*добавление
+52*additional*добавочный
+53*address*адрес
+54*address*обращаться (к кому-л.)
+55*adequate*соответствующий
+56*adequately*в достаточной мере
+57*adjust*регулировать
+58*administration*администрация
+59*admiration*восторг
+60*admire*любоваться
+61*admit*допускать
+62*adopt*усыновлять
+63*adult*взрослый
+64*adult*взрослый
+65*advance*движение вперёд
+66*advance*двигать вперёд
+67*advanced*передовой
+68*advantage*преимущество
+69*adventure*приключение
+70*advertise*рекламировать
+71*advertisement*реклама
+72*advice*совет
+73*advise*советовать
+74*affair*дело
+75*affect*влиять
+76*affection*любовь
+77*afford*быть в состоянии
+78*afraid*испуганный
+79*after*позади
+80*after*после того как
+81*after*за
+82*afternoon*дневное время
+83*afterward*позднее
+84*again*еще
+85*against*перед
+86*age*возраст
+87*aged*пожилой
+88*agency*агентство
+89*agenda*программа (работы)
+90*agent*агент
+91*aggressive*агрессивный
+92*ago*тому назад
+93*agree*соглашаться
+94*agreement*договор
+95*ahead*вперед
+96*aid*помощь
+97*aid*помогать
+98*aim*намерение
+99*aim*стремиться
+100*air*воздух
+101*aircraft*самолет
+102*airplane*самолет
+103*airport*аэропорт
+104*alarm*тревога
+105*alarmed*встревоженный
+106*alarming*волнующий
+107*alcohol*алкоголь
+108*alcoholic*алкогольный
+109*alive*живой
+110*all*весь
+111*all*всё
+112*all*всецело
+113*all right*давай! ладно!
+114*all right*правильный
+115*all right*приемлемо
+116*allied*близкий
+117*allow*позволять
+118*ally*друг
+119*ally*объединиться
+120*almost*почти
+121*alone*исключительно
+122*alone*единственный
+123*along*вдоль
+124*along*рядом
+125*alongside*около
+126*alongside*неподалёку
+127*aloud*вслух
+128*alphabet*алфавит
+129*alphabetical*алфавитный
+130*alphabetically*по алфавиту
+131*already*уже
+132*also*тоже
+133*alter*изменять
+134*alternative*альтернативный
+135*alternative*альтернатива
+136*alternatively*альтернативно
+137*although*хотя
+138*altogether*вполне
+139*always*всегда
+140*amaze*изумлять
+141*amazed*изумлённый
+142*amazing*изумительный
+143*ambition*цель
+144*ambulance*полевой госпиталь или скорая помощь
+145*among*между
+146*amount*величина
+147*amuse*развлекать
+148*amused*веселый
+149*amusing*забавный
+150*an*неопределенный артикль перед гласными
+151*analysis*анализ
+152*analyze*исследовать
+153*ancient*древний
+154*and*и
+155*anger*гнев
+156*angle*угол
+157*angrily*гневно
+158*angry*сердитый
+159*animal*животное
+160*ankle*лодыжка
+161*anniversary*годовщина
+162*announce*объявлять
+163*announcement*объявление
+164*annoy*раздражать
+165*annoyed*недовольный
+166*annoying*раздражающий
+167*annual*ежегодный
+168*annually*ежегодно
+169*another*еще один
+170*another*другой
+171*answer*ответ
+172*answer*отвечать
+173*anticipate*предвидеть
+174*anxiety*тревога
+175*anxious*беспокоящийся
+176*anxiously*с волнением
+177*any*какой-нибудь
+178*any*кто-нибудь
+179*any*сколько-нибудь
+180*anybody*кто-нибудь
+181*anymore*больше не
+182*anyone*кто-нибудь
+183*anything*что-нибудь (в негативных предложениях)
+184*anyway*в любом случае
+185*anywhere*где-нибудь
+186*apart*в стороне
+187*apartment*комната
+188*apologize*извиняться
+189*apparent*очевидный
+190*apparently*очевидно
+191*appeal*обращение
+192*appeal*просить
+193*appear*показываться
+194*appearance*появление
+195*apple*яблоко
+196*application*просьба
+197*apply*обращаться…
+198*appointment*назначение
+199*appreciate*оценивать
+200*approach*приближение
+201*approach*подходить
+202*appropriate*подходящий
+203*approval*одобрение
+204*approve*одобрять
+205*approving*одобрительный
+206*approximate*приблизительный
+207*approximately*приблизительно
+208*April*апрель
+209*area*участок
+210*argue*спорить
+211*argument*довод
+212*arise*возникать
+213*arm*рука
+214*arm*вести под руку
+215*armed*вооружённый
+216*arms*оружие
+217*army*армия
+218*around*около
+219*around*вокруг
+220*arrange*расставлять
+221*arrangement*расположение
+222*arrest*арестовывать
+223*arrival*прибытие
+224*arrive*прибывать
+225*arrow*стрела
+226*art*искусство
+227*article*статья
+228*artificial*искусственный
+229*artificially*искусственно
+230*artist*артист
+231*artistic*артистический
+232*as*в качестве
+233*as*так как
+234*ashamed*пристыженный
+235*aside*в сторону
+236*ask*спрашивать
+237*asleep*спящий
+238*aspect*аспект
+239*assist*помогать
+240*assistance*помощь
+241*assistant*вспомогательный
+242*assistant*помощник
+243*associate*объединять
+244*association*соединение
+245*assume*предполагать
+246*assure*уверять
+247*at*у
+248*atmosphere*атмосфера
+249*atom*атом
+250*attach*прикреплять
+251*attached*прикреплённый
+252*attack*атака
+253*attack*атаковать
+254*attempt*попытка
+255*attempt*пытаться
+256*attempted*неудавшийся
+257*attend*посещать
+258*attention*внимание
+259*attitude*позиция
+260*attorney*адвокат
+261*attract*притягивать
+262*attraction*влечение
+263*attractive*привлекательный
+264*audience*публика
+265*August*август
+266*aunt*тетя
+267*author*автор
+268*authority*власть
+269*automatic*автоматический
+270*automatically*автоматически
+271*available*доступный
+272*average*средний
+273*average*средняя величина
+274*avoid*избегать
+275*awake*проснувшийся
+276*award*присуждённая награда
+277*award*присуждать
+278*aware*знающий
+279*away*далеко
+280*awful*страшный
+281*awkward*неудобный
+282*awkwardly*неуклюже
+283*baby*ребенок
+284*back*задний
+285*back*спина
+286*back*назад
+287*background*происхождение
+288*backward*назад
+289*bacteria*бактерия
+290*bad*плохой
+291*badly*плохо
+292*bag*мешок
+293*baggage*багаж (амер.)
+294*bake*печь
+295*balance*весы
+296*balance*уравновешивать
+297*ball*мяч
+298*band*тесьма
+299*bandage*бинт
+300*bandage*бинтовать
+301*bank*банк
+302*bar*брусок
+303*barely*просто
+304*bargain*выгодная покупка
+305*barrier*барьер
+306*base*базировать
+307*base*основа
+308*baseball*бейсбол
+309*basic*основной
+310*basically*в основном
+311*basis*базис
+312*basketball*баскетбол и мяч для него
+313*bath*ванна
+314*bathroom*ванная комната
+315*battery*батарея
+316*battle*битва
+317*bay*бухта
+318*be*быть
+319*beach*берег
+320*beak*клюв
+321*bear*носить
+322*beard*борода
+323*beat*побеждать
+324*beautiful*красивый
+325*beautifully*превосходно
+326*beauty*красота
+327*because*потому что
+328*become*становится
+329*bed*кровать
+330*bedroom*спальня
+331*beef*говядина
+332*beer*пиво
+333*before*впереди
+334*before*до
+335*before*прежде чем
+336*begin*начинать
+337*beginning*начало
+338*behalf*от чьего-л. имени (лица)
+339*behave*вести себя
+340*behavior*поведение
+341*behind*за
+342*behind*назад
+343*belief*вера
+344*believe*верить
+345*bell*колокол
+346*belong*принадлежать
+347*below*ниже
+348*below*внизу
+349*belt*ремень
+350*bend*сгибать
+351*bend*поворот
+352*beneath*ниже
+353*beneath*внизу
+354*benefit*выгода
+355*bent*изогнутый
+356*beside*рядом с
+357*best*лучший
+358*best*лучше всего
+359*best*самое лучшее
+360*bet*пари
+361*bet*держать пари
+362*better*наилучший
+363*better*лучше
+364*between*между
+365*beyond*за
+366*beyond*далеко
+367*bicycle*велосипед
+368*bicycle*велосипед
+369*bid*предлагать цену
+370*bid*предложение цены
+371*big*большой
+372*bill*список
+373*biology*биология
+374*bird*птица
+375*birth*рождение
+376*birthday*день рожденья
+377*bit*кусочек
+378*bite*кусать
+379*bitter*горький
+380*bitterly*горько
+381*black*черный
+382*black*черный
+383*blade*лезвие
+384*blame*порицать
+385*blank*пустой
+386*blank*пустое место
+387*blankly*безучастно
+388*blind*слепой
+389*block*колода
+390*block*задерживать
+391*blond*блондин
+392*blonde*блондинка
+393*blonde*белокурый
+394*blood*кровь
+395*blow*дуть
+396*blow*дуновение
+397*blue*голубой
+398*blue*синий цвет или краска
+399*board*доска
+400*board*подниматься на борт
+401*boat*лодка
+402*body*тело
+403*boil*кипеть
+404*bomb*бомба
+405*bomb*бомбить
+406*bond*связь
+407*bone*кость
+408*book*книга
+409*book*заказать
+410*boot*ботинок
+411*border*граница
+412*bore*утомить
+413*bored*скучающий
+414*boring*надоедливый
+415*born*родившийся
+416*borrow*занимать
+417*boss*хозяин
+418*both*оба
+419*bother*надоедать
+420*bottle*бутылка
+421*bottom*низ
+422*bottom*нижний
+423*bound*обязанный
+424*bowl*кубок
+425*box*коробка
+426*boy*мальчик
+427*boyfriend*возлюбленный
+428*brain*мозг
+429*branch*ветвь
+430*brand*торговая марка
+431*brave*смелый
+432*bread*хлеб
+433*break*ломать
+434*break*разрыв
+435*breakfast*завтрак
+436*breast*грудь
+437*breath*дыхание
+438*breathe*дышать
+439*breathing*дыхание
+440*breed*порода
+441*breed*размножаться
+442*brick*кирпич
+443*bridge*мост
+444*brief*короткий
+445*briefly*коротко
+446*bright*яркий
+447*brightly*ярко
+448*brilliant*сверкающий
+449*bring*приносить
+450*broad*широкий
+451*broadcast*радио- или телевещание
+452*broadcast*передавать по радио или телевидению
+453*broadly*широко
+454*broken*разбитый
+455*brother*брат
+456*brown*коричневый
+457*brown*коричневый цвет
+458*brush*чистить
+459*brush*щётка
+460*bubble*пузырек
+461*budget*бюджет
+462*build*строить
+463*building*здание
+464*bullet*пуля
+465*bunch*связка
+466*burn*гореть
+467*burst*лопаться
+468*bury*хоронить
+469*bus*автобус
+470*bush*кустарник
+471*business*дело
+472*businessman*предприниматель
+473*businesswoman*деловая женщина
+474*busy*занятый
+475*but*но
+476*butt*попа
+477*butter*масло
+478*button*пуговица
+479*buy*покупать
+480*buyer*покупатель (дорогих вещей)
+481*by*у
+482*by*около
+483*bye*пока!
+484*cabinet*кабинет
+485*cable*электрокабель
+486*cake*кекс
+487*calculate*вычислять
+488*calculation*вычисление
+489*call*кричать
+490*call*крик
+491*calm*спокойный
+492*calm*успокаивать
+493*calm*спокойствие
+494*calmly*спокойно
+495*camera*фотокамера
+496*camp*лагерь
+497*camp*лагерь
+498*campaign*кампания
+499*can*мочь
+500*can*банка
+501*cancel*вычеркивать
+502*cancer*рак (болезнь)
+503*candidate*кандидат
+504*candy*леденец
+505*cap*кепка
+506*capable*способный
+507*capacity*ёмкость
+508*capital*капитал
+509*capital*основной
+510*captain*капитан (звание или должность)
+511*capture*захват
+512*capture*захватывать
+513*car*автомобиль
+514*card*карта
+515*care*забота
+516*care*заботится
+517*career*карьера
+518*careful*заботливый
+519*carefully*внимательно
+520*careless*небрежный
+521*carelessly*небрежно
+522*carpet*ковёр
+523*carrot*морковь
+524*carry*нести
+525*case*случай
+526*cash*наличность (денежная)
+527*cast*бросать
+528*cast*бросок
+529*castle*замок
+530*cat*кот
+531*catch*ловить
+532*category*категория
+533*cause*послужить причиной
+534*cause*причина
+535*CD*компакт-диск
+536*cease*переставать (делать что-л.)
+537*ceiling*потолок
+538*celebrate*праздновать
+539*celebration*празднование
+540*cell*секция
+541*cell phone*телефон (мобильный)
+542*cent*цент
+543*center*центр
+544*centimeter*сантиметр
+545*central*главный
+546*century*век
+547*ceremony*торжество
+548*certain*точный
+549*certain*некто
+550*certainly*конечно
+551*certificate*сертификат
+552*chain*цепь
+553*chain*приковывать
+554*chair*стул
+555*chairman*председатель
+556*chairwoman*председательница
+557*challenge*вызов
+558*chamber*камера
+559*chance*случайность
+560*change*перемена
+561*change*менять
+562*channel*канал
+563*chapter*глава (книги)
+564*character*характер
+565*characteristic*характеристика
+566*characteristic*характерный
+567*charge*заряд
+568*charge*заряжать
+569*charity*благотворительность
+570*chart*наносить на карту
+571*chart*диаграмма
+572*chase*гнаться
+573*chase*погоня
+574*chat*болтать
+575*chat*беседа
+576*cheap*дешёвый
+577*cheaply*по низкой цене
+578*cheat*жульничать
+579*cheat*мошеничество
+580*check*проверять
+581*check*контроль
+582*cheek*щека
+583*cheerful*веселый
+584*cheerfully*радостно
+585*cheese*сыр
+586*chemical*химикат
+587*chemical*химический
+588*chemist*химик
+589*chemistry*химия
+590*chest*ящик
+591*chicken*цыплёнок
+592*chief*ведущий
+593*chief*лидер
+594*child*ребенок
+595*childhood*детство
+596*chin*подбородок
+597*chip*осколок
+598*chocolate*шоколад
+599*choice*выбор
+600*choose*выбирать
+601*church*церковь
+602*cigarette*сигарета
+603*circle*круг
+604*circumstance*обстоятельство
+605*citizen*гражданин
+606*city*город (большой)
+607*civil*гражданский
+608*claim*утверждение
+609*claim*заявлять
+610*class*класс
+611*classic*классика
+612*classic*классический
+613*classroom*класс
+614*clean*чистый
+615*clean*уборка
+616*clear*очищать
+617*clear*светлый
+618*clearly*ясно
+619*clerk*клерк
+620*click*щелчок
+621*click*щелкать
+622*client*клиент
+623*climate*климат
+624*climb*влезать
+625*clock*часы (настенные
+626*close*закрывать
+627*close*закрытый
+628*close*близко
+629*closed*закрытый
+630*closely*близко
+631*closet*шкаф
+632*cloth*ткань
+633*clothes*одежда
+634*clothing*одежда
+635*cloud*облако
+636*club*дубина
+637*coach*тренер
+638*coal*уголь
+639*coast*побережье
+640*coat*пиджак
+641*code*код
+642*coffee*кофе
+643*coin*монета
+644*cold*холод
+645*cold*холодный
+646*coldly*холодно
+647*collapse*разрушаться
+648*collapse*обрушение
+649*colleague*коллега
+650*collect*собирать (предметы)
+651*collection*коллекция
+652*college*колледж
+653*color*цвет
+654*color*окрашивать
+655*colored*окрашенный
+656*column*колонна
+657*combination*соединение
+658*combine*объединять
+659*come*приходить
+660*comfortable*уютный
+661*comfortably*уютно
+662*command*команда
+663*command*приказывать
+664*comment*коментарий
+665*comment*снабжать комментарием
+666*commercial*коммерческий
+667*commercial*коммерческая реклама
+668*commission*коммитет
+669*commission*назначать на должность
+670*commit*совершать
+671*commitment*обязательство
+672*committee*комитет
+673*common*общий
+674*commonly*обычно
+675*communicate*говорить
+676*communication*информация
+677*community*община
+678*company*общество
+679*compare*сравнивать
+680*comparison*сравнение
+681*compete*состязаться
+682*competition*соревнование
+683*competitive*соперничающий
+684*complain*жаловаться
+685*complaint*жалоба
+686*complete*полный
+687*complete*завершать
+688*completely*вполне
+689*complex*смешанный
+690*complicate*затруднять
+691*complicated*запутанный
+692*component*составная часть
+693*computer*компьютер
+694*concentrate*сосредоточиваться
+695*concentration*концентрация
+696*concept*понятие
+697*concern*беспокойство
+698*concern*описывать
+699*concerned*заинтересованный
+700*concerning*касательно
+701*concert*концерт
+702*conclude*делать вывод
+703*conclusion*умозаключение
+704*concrete*бетонный
+705*concrete*бетон
+706*condition*состояние
+707*conduct*поведение
+708*conduct*сопровождать
+709*conference*конференция
+710*confidence*вера
+711*confident*уверенный
+712*confidently*уверенно
+713*confirm*подтверждать
+714*conflict*конфликт
+715*conflict*конфликтовать
+716*confront*противостоять
+717*confuse*смешивать
+718*confused*смущенный
+719*confusing*сбивающий с толку
+720*confusion*смущение
+721*congratulations*поздравление
+722*congress*конгресс
+723*connect*соединять
+724*connection*связь
+725*conscious*сознательный
+726*consequence*следствие
+727*conservative*консервативный
+728*consider*рассматривать
+729*considerable*значительный
+730*considerably*значительно
+731*consideration*размышление
+732*consist*заключаться в чем-л.
+733*consistent*последовательный
+734*constant*неизменный
+735*constantly*непрерывно
+736*construct*строить
+737*construction*стройка
+738*consult*советоваться
+739*consumer*потребитель
+740*contact*соприкасаться
+741*contact*контакт
+742*contain*содержать в себе
+743*container*сосуд
+744*contemporary*современный
+745*content*содержимое
+746*contest*конкурс
+747*context*окружающие ситуацию обстоятельства
+748*continent*континент
+749*continuous*непрерывный
+750*continuously*безперебойно
+751*contract*контракт
+752*contrast*контраст
+753*contrasting*контрастный
+754*contribute*делать взносы
+755*contribution*взнос
+756*control*управлять
+757*control*руководство
+758*controlled*управляемый
+759*convenient*удобный
+760*convention*собрание
+761*conventional*обычный
+762*conversation*разговор
+763*convert*превращать
+764*convince*убеждать
+765*cook*готовить
+766*cook*повар
+767*cookie*булочка
+768*cooking*кулинария
+769*cool*прохладный
+770*cooperation*сотрудничество
+771*copy*копировать
+772*copy*экземпляр
+773*core*центр
+774*corner*угол
+775*correct*исправлять
+776*correct*правильный
+777*correctly*верно
+778*cost*цена
+779*cost*стоить
+780*cottage*небольшой сельский дом
+781*cotton*хлопок
+782*cough*кашлять
+783*could*прош. вр. от мочь
+784*council*совет (орган власти)
+785*count*вычисление
+786*counter*столешница
+787*country*страна
+788*countryside*сельская местность
+789*county*округ
+790*couple*пара
+791*courage*смелость
+792*course*курс
+793*court*суд
+794*cousin*двоюродный брат
+795*cover*накрывать
+796*cover*крышка
+797*covered*закрытый сверху
+798*covering*покрышка
+799*cow*корова (самка)
+800*crack*лопаться
+801*cracked*треснувший
+802*craft*ремесло
+803*crash*грохот
+804*crash*разбивать
+805*crazy*псих
+806*cream*кремовый
+807*cream*сливки
+808*create*производить
+809*creation*формирование
+810*creative*созидательный
+811*creature*создание
+812*credit*кредит
+813*credit card*банковская карточка (пластик)
+814*crime*преступление
+815*criminal*злоумышленник
+816*criminal*преступный
+817*crisis*кризис
+818*crisp*хрустящий
+819*criterion*критерий
+820*critic*критик
+821*critical*критический
+822*criticism*критика
+823*criticize*критиковать
+824*cross*переходить
+825*cross*крест
+826*crowd*толпа
+827*crowded*переполненный
+828*crown*корона
+829*crucial*ключевой
+830*cruel*жестокий
+831*crush*давить
+832*cry*кричать
+833*cultural*культурный
+834*culture*культура
+835*cup*чашка
+836*cupboard*буфет
+837*cure*лечение
+838*cure*излечивать
+839*curious*любопытный
+840*curiously*любопытно
+841*curl*виться
+842*curl*локон
+843*curly*кудрявый
+844*current*текущий
+845*current*струя
+846*currently*теперь
+847*curtain*занавеска
+848*curve*кривая
+849*curve*гнуть
+850*curved*изогнутый
+851*custom*обычай
+852*customer*покупатель
+853*customs*таможня
+854*cut*резать
+855*cut*разрез
+856*cute*изящный
+857*cycle*проходить
+858*cycle*цикл
+859*cycling*велоспорт
+860*dad*папа
+861*daily*ежедневный
+862*damage*вред
+863*damage*вредить
+864*damp*влажный
+865*dance*танец
+866*dance*танцевать
+867*dancer*танцор
+868*dancing*танцы
+869*danger*опасность
+870*dangerous*опасный
+871*dare*отваживаться
+872*dark*темный
+873*darkness*темнота
+874*date*дата
+875*date*датировать
+876*daughter*дочь
+877*day*день
+878*dead*мертвый
+879*deaf*глухой
+880*deal*распределять
+881*deal*сделка
+882*dear*дорогой
+883*death*смерть
+884*debate*дебаты
+885*debate*обсуждать
+886*debt*долг
+887*decade*десяток
+888*decay*гниение
+889*decay*гнить
+890*December*декабрь
+891*decent*подходящий
+892*decide*решать
+893*decision*решение
+894*declare*заявлять
+895*decline*спускаться
+896*decline*падение
+897*decorate*украшать
+898*decoration*украшение
+899*decorative*декоративный
+900*decrease*уменьшение
+901*decrease*уменьшаться
+902*deep*глубокий
+903*deeply*глубоко
+904*defeat*одержать победу
+905*defend*защищать
+906*defense*защита
+907*define*определять
+908*definite*ясный
+909*definitely*определённо
+910*definition*определение
+911*degree*степень
+912*delay*откладывать
+913*delay*задержка
+914*deliberate*неслучайный
+915*deliberately*преднамеренно
+916*delicate*тонкий
+917*delight*удовольствие
+918*delight*радовать
+919*deliver*доставлять
+920*delivery*доставка
+921*demand*требовать
+922*demand*требование
+923*democracy*демократия
+924*democratic*демократичный
+925*demonstrate*демонстрировать
+926*demonstration*демонстрация
+927*dentist*зубной врач
+928*deny*отрицать
+929*department*отдел
+930*departure*отъезд
+931*depend*зависеть
+932*deposit*класть в банк
+933*deposit*депозит
+934*depress*подавлять
+935*depressed*подавленный
+936*depressing*тягостный
+937*depression*уныние
+938*depth*глубина
+939*derive*получать
+940*describe*описывать
+941*description*составление описания
+942*desert*пустыня
+943*deserve*заслуживать
+944*design*замысел
+945*design*придумывать
+946*designer*конструктор
+947*desire*желание
+948*desire*желать
+949*desk*рабочий стол
+950*desperate*безнадежный
+951*desperately*отчаянно
+952*despite*несмотря на
+953*destroy*разрушать
+954*destruction*разрушение
+955*detail*подробность
+956*detailed*подробный
+957*determination*решительность
+958*determine*определять
+959*determined*решительный
+960*develop*развивать
+961*development*развитие
+962*device*устройство
+963*devote*отдавать
+964*devoted*преданный
+965*diagram*диаграмма
+966*dialogue*диалог
+967*diamond*алмаз
+968*diary*дневник
+969*dictionary*словарь
+970*die*умирать
+971*diet*пища
+972*difference*разница
+973*different*непохожий
+974*differently*по-другому
+975*difficult*трудный
+976*difficulty*трудность
+977*dig*копать
+978*digital*цифровой
+979*dinner*обед (главный
+980*direct*прямой
+981*direct*непосредственно
+982*direct*направлять
+983*direction*направление
+984*directly*прямо
+985*dirt*грязь
+986*dirty*грязный
+987*disability*бессилие
+988*disadvantage*неудобство
+989*disagree*не совпадать
+990*disagreement*ссора
+991*disappear*исчезать
+992*disappoint*разочаровывать
+993*disappointed*разочарованный
+994*disappointing*неутешительный
+995*disappointment*разочарование
+996*disapproval*неодобрение
+997*disapprove*не одобрять
+998*disapproving*неодобрительный
+999*disaster*беда
+1000*discipline*дисциплина
+1001*discount*скидка
+1002*discover*обнаруживать
+1003*discuss*обсуждать
+1004*discussion*дискуссия
+1005*disease*болезнь
+1006*disgust*раздразжать
+1007*disgust*недовольство
+1008*disgusted*чувствующий отвращение
+1009*disgusting*отвратительный
+1010*dish*блюдо
+1011*dishonest*нечестный
+1012*dishonestly*нечестно
+1013*disk*диск
+1014*disk*диск
+1015*dislike*неприязнь
+1016*dislike*испытывать неприязнь
+1017*dismiss*увольнять
+1018*display*выставлять
+1019*display*показ
+1020*dissolve*растворяться
+1021*distance*расстояние
+1022*distant*дальний
+1023*distinguish*различить
+1024*distribute*распределять
+1025*distribution*распределение
+1026*district*район
+1027*disturb*волновать
+1028*disturbing*беспокоящий
+1029*divide*делить
+1030*division*деление
+1031*divorce*разводится
+1032*divorce*развод
+1033*divorced*разведенный
+1034*do*делать
+1035*doctor*врач
+1036*document*документ
+1037*dog*собака
+1038*dollar*доллар
+1039*domestic*домашний
+1040*dominate*управлять
+1041*door*дверь
+1042*dot*точка
+1043*double*двойной
+1044*double*двойное кол-во
+1045*double*вдвое
+1046*double*удваивать
+1047*doubt*сомнение
+1048*doubt*сомневаться
+1049*down*по
+1050*down*вниз
+1051*downstairs*внизу
+1052*downstairs*нижний
+1053*downstairs*низ
+1054*downtown*расположенный в деловом районе
+1055*downtown*вниз
+1056*downward*вниз
+1057*downward*спускающийся
+1058*downward*вниз
+1059*dozen*дюжина
+1060*draft*набросок
+1061*draft*черновой
+1062*draft*составить проект
+1063*drag*тянуть
+1064*drama*драма
+1065*dramatic*драматичный
+1066*dramatically*драматично
+1067*draw*рисовать
+1068*drawer*чертежник
+1069*drawing*рисование
+1070*dream*видеть сон
+1071*dream*сон
+1072*dress*одевать
+1073*dress*платье (женское)
+1074*dressed*одетый
+1075*drink*пить
+1076*drink*напиток
+1077*drive*езда
+1078*drive*ездить
+1079*driver*водитель
+1080*drop*капля
+1081*drop*капать
+1082*drug*лекарство
+1083*drugstore*аптека
+1084*drum*барабан
+1085*drunk*напившийся
+1086*dry*сушить
+1087*dry*сухой
+1088*due*ожидаемый
+1089*dull*тупой
+1090*dump*класть
+1091*dump*свалка
+1092*during*в течении
+1093*dust*пыль
+1094*duty*почтение
+1095*DVD*цифровой диск
+1096*dying*умирающий
+1097*e-mail*электронная почта
+1098*e-mail*электронная почта
+1099*e.g.*(exempli gratia) например
+1100*each*каждый
+1101*each*каждый
+1102*each other*друг друга
+1103*each other*друг друга
+1104*eager*страстно желающий
+1105*ear*ухо
+1106*early*в начале
+1107*early*ранний
+1108*earn*зарабатывать
+1109*earth*земля
+1110*ease*легкость
+1111*ease*облегчать
+1112*easily*легко
+1113*east*восток
+1114*east*восточный
+1115*east*на восток
+1116*eastern*восточный
+1117*easy*легкий
+1118*eat*есть
+1119*economic*экономический
+1120*economics*экономика
+1121*economy*хозяйство
+1122*edge*кромка
+1123*edition*издание
+1124*editor*редактор
+1125*educate*воспитывать
+1126*educated*образованный
+1127*education*образование
+1128*educational*образовательный
+1129*effect*результат
+1130*effective*действенный
+1131*effectively*действенно
+1132*efficient*действенный
+1133*efficiently*рационально
+1134*effort*усилие
+1135*egg*яйцо
+1136*either*один из двух
+1137*either*или
+1138*either*также
+1139*elbow*локоть
+1140*elderly*пожилой
+1141*elect*избирать
+1142*election*выборы
+1143*electric*электрический
+1144*electrical*электрический
+1145*electricity*электричество
+1146*electronic*электронный
+1147*elegant*изысканный
+1148*element*элемент
+1149*elevator*грузоподъемник
+1150*eliminate*устранять
+1151*else*еще
+1152*elsewhere*где-то в другом месте
+1153*embarrass*затруднять
+1154*embarrassed*затрудненный
+1155*embarrassing*стеснительный
+1156*embarrassment*смущение
+1157*emerge*появляться
+1158*emergency*непредвиденный случай
+1159*emotion*душевное волнение
+1160*emotional*эмоциональный
+1161*emotionally*эмоционально
+1162*emphasis*выразительность
+1163*emphasize*придавать особое значение
+1164*empire*империя
+1165*employ*нанимать
+1166*employee*служащий
+1167*employer*наниматель
+1168*employment*служба
+1169*empty*пустой
+1170*empty*опорожнять
+1171*enable*давать возможность
+1172*encounter*случайная встреча
+1173*encounter*встретиться (случайно)
+1174*encourage*ободрять
+1175*encouragement*ободрение
+1176*end*конец
+1177*end*прекращать
+1178*ending*завершение
+1179*enemy*враг
+1180*energy*энергия
+1181*engage*привлекать
+1182*engaged*занятый
+1183*engine*машина
+1184*engineer*инженер
+1185*engineering*инженерное искусство
+1186*enjoy*наслаждаться
+1187*enjoyable*приятный
+1188*enjoyment*наслаждение
+1189*enormous*громадный
+1190*enough*довольно
+1191*enough*достаточный
+1192*enough*достаточное количество
+1193*ensure*гарантировать
+1194*enter*входить
+1195*entertain*принимать
+1196*entertainment*развлечение
+1197*enthusiasm*восторг
+1198*enthusiastic*восторженный
+1199*entire*полный
+1200*entirely*вполне
+1201*entitle*давать право
+1202*entrance*вход
+1203*entry*вход
+1204*envelope*конверт
+1205*environment*окружающая среда
+1206*environmental*относящийся к окружающей среде
+1207*equal*равный
+1208*equal*равняться
+1209*equal*равный
+1210*equally*равно
+1211*equipment*оборудование
+1212*equivalent*эквивалент
+1213*equivalent*равноценный
+1214*error*заблуждение
+1215*escape*совершать побег
+1216*especially*особенно
+1217*essay*очерк
+1218*essential*важнейший
+1219*essential*сущность
+1220*essentially*по существу
+1221*establish*учреждать
+1222*estate*поместье
+1223*estimate*оценка ожиданий
+1224*estimate*оценивать
+1225*etcetera*так далее
+1226*ethnic*национальный
+1227*even*даже
+1228*even*плоский
+1229*evening*вечер
+1230*event*событие
+1231*eventually*в итоге
+1232*ever*всегда
+1233*every*каждый
+1234*everybody*каждый
+1235*everyone*каждый
+1236*everything*всё
+1237*everywhere*везде
+1238*evidence*ясность
+1239*evil*злой
+1240*evil*зло
+1241*exact*точный
+1242*exactly*в точности
+1243*exaggerate*преувеличивать
+1244*exaggerated*чрезмерный
+1245*exam*экзамен
+1246*examination*осмотр
+1247*examine*рассматривать
+1248*example*пример
+1249*excellent*отличный
+1250*except*исключая
+1251*except*за исключением того
+1252*exception*исключение
+1253*exchange*обмен
+1254*exchange*обменивать
+1255*excited*взволнованный
+1256*excitement*волнение
+1257*exciting*возбуждающий
+1258*exclude*исключать
+1259*excluding*исключая
+1260*excuse*извиняться
+1261*excuse*извинение
+1262*executive*руководитель
+1263*executive*исполнительный
+1264*exercise*упражнение
+1265*exhibit*экспонат
+1266*exhibit*показывать
+1267*exhibition*выставка
+1268*exist*существовать
+1269*existence*жизнь
+1270*exit*выход
+1271*expand*растягиваться
+1272*expect*ждать
+1273*expectation*ожидание
+1274*expected*будущий
+1275*expense*затрата
+1276*expensive*дорогой
+1277*experience*опыт
+1278*experience*испытывать
+1279*experienced*знающий
+1280*experiment*опыт
+1281*expert*знаток
+1282*expert*опытный
+1283*explain*объяснять
+1284*explanation*пояснения
+1285*explode*взрывать
+1286*explore*исследовать
+1287*explosion*взрыв
+1288*export*экспорт
+1289*export*экспортировать
+1290*expose*делать видимым
+1291*express*изображать
+1292*express*ясный
+1293*expression*выражение
+1294*extend*расширять
+1295*extension*удлинение
+1296*extensive*пространственный
+1297*extent*пространство
+1298*extra*добавочный
+1299*extra*отдельно
+1300*extra*статист
+1301*extraordinary*выдающийся
+1302*extreme*крайний
+1303*extreme*крайний
+1304*extremely*чрезвычайно
+1305*eye*глаз
+1306*face*стоять лицом к лицу
+1307*face*лицо
+1308*fact*факт
+1309*factor*фактор
+1310*factory*завод
+1311*fail*недоставать
+1312*failure*неудача
+1313*faint*слабый
+1314*faintly*бледно
+1315*fair*порядочный
+1316*fairly*довольно
+1317*faith*вера
+1318*faithful*верный
+1319*faithfully*верно
+1320*fall*падать
+1321*fall*падение
+1322*false*неправильный
+1323*fame*известность
+1324*familiar*близкий
+1325*family*семья
+1326*family*фамильный
+1327*famous*видный
+1328*fan*веер
+1329*fancy*модный
+1330*far*вдали
+1331*far*далекий
+1332*farm*ферма
+1333*farmer*фермер
+1334*farming*сельское хозяйство
+1335*fashion*форма
+1336*fashionable*модный
+1337*fast*быстрый
+1338*fast*быстро
+1339*fasten*прикреплять
+1340*fat*жир
+1341*fat*толстый
+1342*father*отец
+1343*fault*дефект
+1344*favor*услуга
+1345*favorite*любимый
+1346*favorite*любимец
+1347*fear*боятся
+1348*fear*боязнь
+1349*feather*перо
+1350*feature*особенность
+1351*February*февраль
+1352*federal*федеральный
+1353*fee*вознаграждение
+1354*feed*кормить
+1355*feel*ощупывать
+1356*feeling*ощущение
+1357*fellow*принадлежащий к той же группе
+1358*fellow*человек
+1359*female*женский
+1360*fence*забор
+1361*festival*фестиваль
+1362*fever*жар
+1363*few*некоторые
+1364*few*мало
+1365*field*поле
+1366*fight*драться
+1367*fight*бой
+1368*fighting*бой
+1369*figure*фигура
+1370*figure*считать
+1371*file*папка
+1372*fill*наполнять
+1373*film*фильм
+1374*film*производить киносъёмку
+1375*final*завершающий
+1376*final*завершающий
+1377*finally*в заключении
+1378*finance*финансы
+1379*finance*финансировать
+1380*financial*финансовый
+1381*find*находить
+1382*fine*тонкий
+1383*finely*тонко
+1384*finger*палец (на руке)
+1385*finish*кончать
+1386*finish*конец
+1387*finished*законченный
+1388*fire*огонь
+1389*fire*зажигать
+1390*firm*фирма
+1391*firm*крепкий
+1392*firm*крепко
+1393*firmly*крепко
+1394*first*раньше
+1395*first*первый
+1396*first*первый элемент
+1397*fish*рыба
+1398*fish*удить рыбу
+1399*fishing*рыбалка
+1400*fit*подходящий
+1401*fit*прилаживание
+1402*fit*быть впору
+1403*fix*устанавливать
+1404*fixed*неподвижный
+1405*flag*знамя
+1406*flame*огонь
+1407*flash*сверкать
+1408*flash*вспышка
+1409*flat*плоский
+1410*flavor*вкус
+1411*flesh*тело
+1412*flight*полет
+1413*float*плавать
+1414*flood*наводнение
+1415*flood*заливать
+1416*floor*пол
+1417*flour*мука
+1418*flow*течь
+1419*flow*течение
+1420*flower*цветок
+1421*flu*грипп
+1422*fly*летать
+1423*fly*двукрылое или летающее насекомое
+1424*flying*полёт
+1425*flying*летающий
+1426*focus*центр
+1427*focus*сосредоточивать
+1428*fold*сгибать
+1429*fold*сгиб
+1430*folding*складной
+1431*folks*люди
+1432*follow*следовать
+1433*following*после
+1434*following*следующий
+1435*following*последователи
+1436*food*пища
+1437*foot*ступня
+1438*football*футбол
+1439*for*для
+1440*force*сила (полицейская
+1441*force*принуждать
+1442*forecast*предсказывать
+1443*forecast*прогноз
+1444*foreign*иностранный
+1445*forest*лес
+1446*forever*навсегда
+1447*forget*забывать
+1448*forgive*прощать
+1449*fork*вилка
+1450*form*форма
+1451*form*придавать форму
+1452*formal*формальный
+1453*formally*формально
+1454*former*создатель
+1455*former*бывший
+1456*formerly*когда-то
+1457*formula*формула
+1458*fortune*удача
+1459*forward*с этого момента
+1460*forward*передний
+1461*forward*с этого момента
+1462*found*начинать строительство
+1463*foundation*фундамент
+1464*frame*рама
+1465*frame*собирать (конструкцию)
+1466*free*свободный
+1467*free*освобождать
+1468*free*свободно
+1469*freedom*независимость
+1470*freely*свободно
+1471*freeze*замерзать
+1472*frequent*частый
+1473*frequently*часто
+1474*fresh*свежий
+1475*freshly*свежо
+1476*Friday*пятница
+1477*friend*друг
+1478*friendly*дружественный
+1479*friendship*дружба
+1480*frighten*пугать
+1481*frightening*пугающий
+1482*from*от
+1483*front*перед
+1484*front*передний
+1485*frozen*замороженный
+1486*fruit*плод
+1487*fry*жарить
+1488*fuel*топливо
+1489*full*полный
+1490*fully*вполне
+1491*fun*приятный
+1492*fun*веселье
+1493*function*функционировать
+1494*function*функция
+1495*fund*запас
+1496*fund*финансировать
+1497*fundamental*основной
+1498*funeral*похороны
+1499*funny*забавный
+1500*fur*мех
+1501*furniture*мебель
+1502*further*дальнейший
+1503*further*затем
+1504*future*будущее
+1505*future*будущий
+1506*gain*добывать
+1507*gallon*галлон (4
+1508*gamble*азартная игра
+1509*gamble*играть в азартные игры
+1510*gambling*спекуляция
+1511*game*игра
+1512*gap*пролом
+1513*garage*гараж
+1514*garbage*отбросы
+1515*garden*сад
+1516*gas*газ
+1517*gate*ворота
+1518*gather*собираться
+1519*gay*гей
+1520*gear*шестерня
+1521*gene*ген
+1522*general*общий
+1523*generally*обычно
+1524*generate*производить
+1525*generation*поколение
+1526*generous*благородный
+1527*generously*обильно
+1528*gentle*знатный
+1529*gentleman*господин
+1530*gently*мягко
+1531*genuine*подлинный
+1532*genuinely*искренне
+1533*geography*география
+1534*get*получить
+1535*giant*гигантский
+1536*giant*великан
+1537*gift*подарок
+1538*girl*девочка
+1539*girlfriend*подруга
+1540*give*дать
+1541*glass*стекло
+1542*glasses*очки
+1543*global*всемирный
+1544*glove*перчатка
+1545*glue*клеить
+1546*glue*клей
+1547*go*идти
+1548*goal*задача
+1549*god*бог
+1550*gold*золото
+1551*gold*золотой
+1552*good*благо
+1553*good*хороший
+1554*goodbye*прощай
+1555*goodbye*прощание
+1556*goods*товары
+1557*govern*править
+1558*government*правительство
+1559*governor*губернатор
+1560*grab*схватывать
+1561*grade*ставить оценку
+1562*grade*класс
+1563*gradual*постепенный
+1564*gradually*понемногу
+1565*graduate*оканчивать
+1566*graduate*выпускник
+1567*grain*зерно
+1568*gram*грамм
+1569*grammar*грамматика
+1570*grand*большой
+1571*grandchild*внук
+1572*granddaughter*внучка
+1573*grandfather*дедушка
+1574*grandmother*бабушка
+1575*grandparent*прародитель
+1576*grandson*внук
+1577*grant*дарить
+1578*grant*подарок
+1579*grass*трава
+1580*grateful*благодарный
+1581*grave*серьезный
+1582*grave*могила
+1583*gray*серый цвет или краска
+1584*gray*серый
+1585*great*большой
+1586*green*зеленый цвет или краска
+1587*green*зеленый
+1588*groceries*прод. товары
+1589*grocery store*продовольственный магазин
+1590*ground*земля
+1591*group*группа
+1592*grow*расти
+1593*growth*рост
+1594*guard*охранять
+1595*guard*охрана
+1596*guess*гадать
+1597*guess*гипотеза
+1598*guest*гость
+1599*guide*проводник
+1600*guide*вести
+1601*guilty*виновный
+1602*guitar*гитара
+1603*gun*орудие
+1604*guy*малый
+1605*habit*обычай
+1606*hair*волосы
+1607*hairdresser*парикмахер
+1608*half*равный половине
+1609*half*половина
+1610*half*наполовину
+1611*hall*зал
+1612*hammer*молоток
+1613*hand*рука (кисть)
+1614*handle*трогать
+1615*handle*ручка (двери
+1616*hang*вешать
+1617*happen*случаться
+1618*happily*успешно
+1619*happiness*счастье
+1620*happy*счастливый
+1621*hard*энергично
+1622*hard*жесткий
+1623*hardly*едва
+1624*harm*вред
+1625*harm*вредить
+1626*harmful*вредный
+1627*harmless*безвредный
+1628*hat*шляпа
+1629*hate*ненавидеть
+1630*hate*ненависть
+1631*hatred*ненависть (сильная)
+1632*have*иметь
+1633*have to*должен делать
+1634*he*он
+1635*head*голова
+1636*headache*головная боль
+1637*heal*вылечивать
+1638*health*здоровье
+1639*healthy*здоровый
+1640*hear*слышать
+1641*hearing*слух
+1642*heart*сердце
+1643*heat*жара
+1644*heat*нагреваться
+1645*heating*нагревание
+1646*heavily*тяжело
+1647*heavy*тяжелый
+1648*heel*пятка
+1649*height*высота
+1650*hell*ад
+1651*hello*алло
+1652*help*помогать
+1653*help*помощь
+1654*helpful*полезный
+1655*her*её
+1656*her*её
+1657*here*здесь
+1658*hers*её
+1659*herself*себя
+1660*hesitate*медлить
+1661*hi*здорово ! привет !
+1662*hide*прятать
+1663*high*высоко
+1664*high*высокий
+1665*high school*средняя школа
+1666*highlight*блик
+1667*highlight*отводить главное место
+1668*highly*весьма
+1669*highway*шоссе
+1670*hill*холм
+1671*him*его
+1672*himself*себя
+1673*hip*бедро
+1674*hire*нанимать
+1675*his*его
+1676*his*его
+1677*historical*исторический
+1678*history*история
+1679*hit*толчек
+1680*hit*ударять
+1681*hold*захват
+1682*hold*держать
+1683*hole*дыра
+1684*holiday*праздник
+1685*hollow*пустой
+1686*holy*святой
+1687*home*домашний
+1688*home*дом
+1689*homework*домашняя работа
+1690*honest*честный
+1691*honestly*честно
+1692*honor*честь
+1693*hook*крюк
+1694*hope*надежда
+1695*hope*надеяться
+1696*hopefully*с надеждой
+1697*horizontal*горизонтальный
+1698*horn*рог
+1699*horror*ужас
+1700*horse*конь
+1701*hospital*больница
+1702*host*принимать гостей
+1703*host*хозяин
+1704*hot*горячий
+1705*hotel*гостиница
+1706*hour*час
+1707*house*дом
+1708*household*семейство
+1709*household*домашний
+1710*housing*размещение
+1711*how*как? каким образом?
+1712*however*как бы ни
+1713*huge*большой
+1714*human*людской
+1715*human*смертный
+1716*humor*юмор
+1717*humorous*юмористический
+1718*hungry*голодный
+1719*hunt*охотится
+1720*hunting*охота
+1721*hurry*торопить
+1722*hurry*суматоха
+1723*hurt*ранить
+1724*husband*муж
+1725*I*я
+1726*i.e.*(id est)  то есть
+1727*ice*лёд
+1728*ice cream*мороженное
+1729*idea*идея
+1730*ideal*идеальный
+1731*ideal*идеал
+1732*ideally*идеально
+1733*identify*опознавать
+1734*identity*тождество
+1735*if*если
+1736*ignore*игнорировать
+1737*ill*больной
+1738*illegal*беззаконный
+1739*illegally*незаконно
+1740*illness*нездоровье
+1741*illustrate*иллюстировать
+1742*image*образ
+1743*imaginary*воображаемый
+1744*imagination*воображение
+1745*imagine*воображать
+1746*immediate*безотлагательный
+1747*immediately*немедленно
+1748*immoral*амморальный
+1749*impact*толчек
+1750*impatient*нетерпеливый
+1751*impatiently*нетерпеливо
+1752*implication*следствие
+1753*imply*предполагать
+1754*import*импортировать
+1755*import*импорт
+1756*importance*важность
+1757*important*важный
+1758*importantly*важно
+1759*impose*облагать
+1760*impossible*невозможный
+1761*impress*производить впечатление
+1762*impressed*впечатленный
+1763*impression*впечатление
+1764*improve*улучшаться
+1765*improvement*улучшение
+1766*in*внутри
+1767*in*внутри
+1768*inch*дюйм (=2
+1769*incident*проишествие
+1770*include*заключать
+1771*including*включая
+1772*increase*возрастать
+1773*increase*возрастание
+1774*increasingly*все больше и больше
+1775*indeed*конечно
+1776*independence*автономия
+1777*independent*независимый
+1778*independently*независимо
+1779*index*алфавитный указатель
+1780*indicate*показывать
+1781*indication*намек
+1782*indirect*непрямой
+1783*indirectly*косвенно
+1784*individual*индивидуальный
+1785*individual*индивидуум
+1786*indoor*находящийся или происходящий в помещении
+1787*indoors*внутри дома
+1788*industrial*индустриальный
+1789*industry*производство
+1790*inevitable*неизбежный
+1791*inevitably*неизбежно
+1792*infect*заражать
+1793*infected*заражённый
+1794*infection*инфекция
+1795*infectious*заразный
+1796*influence*влияние
+1797*inform*сообщать
+1798*informal*неофициальный
+1799*information*информация
+1800*ingredient*ингредиент
+1801*initial*начальный
+1802*initial*инициал
+1803*initially*в начале
+1804*initiative*инициатива
+1805*injure*ранить
+1806*injured*обиженный
+1807*injury*вред
+1808*ink*чернила
+1809*inner*внутренний
+1810*innocent*невинный
+1811*inquiry*вопрос
+1812*insect*насекомое
+1813*insert*вставлять
+1814*inside*внутренность
+1815*inside*внутрь
+1816*inside*внутренний
+1817*inside*внутри
+1818*insist*утверждать
+1819*install*вставлять
+1820*instance*пример
+1821*instead*вместо
+1822*institute*институт
+1823*institution*организация
+1824*instruction*обучение
+1825*instrument*орудие
+1826*insult*оскорблять
+1827*insult*повреждение
+1828*insulting*оскорбительный
+1829*insurance*страхование
+1830*intellectual*мыслительный
+1831*intelligence*интеллект
+1832*intelligent*умный
+1833*intend*намереваться
+1834*intended*намеченный
+1835*intense*интенсивный
+1836*intention*намерение
+1837*interest*интерес
+1838*interest*интересовать
+1839*interested*интересующийся
+1840*interesting*интересный
+1841*interior*внутренняя часть
+1842*interior*внутренний
+1843*internal*внутренний
+1844*international*международный
+1845*Internet*интернет
+1846*interpret*переводить
+1847*interpretation*толкование
+1848*interrupt*обрывать
+1849*interruption*перерыв
+1850*interval*интервал
+1851*interview*деловая встреча
+1852*interview*проводить собеседование
+1853*into*в
+1854*introduce*представлять
+1855*introduction*введение
+1856*invent*изобретать
+1857*invention*изобретение
+1858*invest*вкладывать деньги
+1859*investigate*расследовать
+1860*investigation*расследование
+1861*investment*инвестирование
+1862*invitation*приглашение
+1863*invite*приглашать
+1864*involve*привлекать
+1865*involvement*путаница
+1866*iron*железо
+1867*irritate*возмущать
+1868*irritated*сердитый
+1869*irritating*раздражающий
+1870*island*остров
+1871*issue*важная проблема
+1872*issue*издавать
+1873*it*он
+1874*item*пункт
+1875*its*его
+1876*itself*себя
+1877*jacket*куртка
+1878*jail*тюрьма
+1879*January*январь
+1880*jealous*ревнивый
+1881*jeans*джинсы
+1882*jelly*желе
+1883*jewelry*драгоценности
+1884*job*работа
+1885*join*соединять
+1886*joint*сустав
+1887*joint*общий
+1888*jointly*вместе
+1889*joke*шутить
+1890*joke*шутка
+1891*journalist*журналист
+1892*journey*путешествие
+1893*joy*радость
+1894*judge*судья
+1895*judge*судить
+1896*judgment*взгляд
+1897*juice*сок
+1898*July*июль
+1899*jump*прыгать
+1900*June*июнь
+1901*junior*младший
+1902*junior*младший
+1903*jury*присяжные
+1904*just*точно
+1905*justice*справедливость
+1906*justified*обоснованный
+1907*justify*объяснять
+1908*keen*острый
+1909*keep*держать
+1910*key*ключ
+1911*key*основной
+1912*keyboard*клавиатура
+1913*kick*пинок
+1914*kick*пинать
+1915*kid*козленок
+1916*kid*дурачится
+1917*kill*убивать
+1918*killing*убийство
+1919*kilogram*килограмм
+1920*kilogram*килограмм
+1921*kilometer*километр
+1922*kind*сорт
+1923*kind*добрый
+1924*kindly*доброжелательно
+1925*kindness*доброта
+1926*king*король
+1927*kiss*целовать
+1928*kiss*поцелуй
+1929*kitchen*кухня
+1930*knee*колено
+1931*knife*нож
+1932*knock*удар
+1933*knock*стучать
+1934*knot*узел
+1935*know*знать
+1936*knowledge*знание
+1937*label*навешивать бирку
+1938*label*ярлык
+1939*labor*труд
+1940*laboratory*лаборатория
+1941*lack*недостаток
+1942*lack*нуждаться
+1943*lacking*лишенный
+1944*lady*леди
+1945*lake*озеро
+1946*lamp*лампа
+1947*land*земля
+1948*land*высаживаться
+1949*landscape*пейзаж
+1950*lane*дорожка
+1951*language*язык
+1952*large*большой
+1953*largely*в значительной степени
+1954*last*последний
+1955*last*последний
+1956*last*длиться
+1957*last*после всех
+1958*late*поздний
+1959*late*поздно
+1960*lately*недавно
+1961*later*позже
+1962*later*более поздний
+1963*latest*самый поздний
+1964*latest*новейший
+1965*latter*недавний
+1966*laugh*смеяться
+1967*launch*начинать (действия)
+1968*launch*начало (действий)
+1969*laundry*прачечная
+1970*law*закон
+1971*lawyer*юрист
+1972*lay*класть
+1973*layer*слой
+1974*lazy*ленивый
+1975*lead*вести
+1976*lead*указатель
+1977*leader*руководитель
+1978*leading*ведущий
+1979*leaf*лист
+1980*league*лига
+1981*lean*наклонять
+1982*learn*учиться
+1983*least*менее всего
+1984*least*малейший
+1985*least*менее
+1986*leather*кожа (выделанная )
+1987*leave*покидать
+1988*lecture*лекция
+1989*left*левая сторона
+1990*left*налево
+1991*left*левый
+1992*leg*нога (от бедра до ступни)
+1993*legal*правовой
+1994*legally*законно
+1995*lemon*лимон
+1996*lend*одалживать
+1997*length*длинна
+1998*less*меньший
+1999*less*менее
+2000*lesson*урок
+2001*let*позволять
+2002*letter*буква
+2003*level*уровень
+2004*level*ровный
+2005*liberal*свободомыслящий
+2006*library*библиотека
+2007*license*лицензия
+2008*license*разрешать
+2009*lid*крышка
+2010*lie*ложь
+2011*lie*лгать
+2012*life*жизнь
+2013*lift*поднимать
+2014*light*светлый
+2015*light*свет
+2016*light*освещать
+2017*lightly*слегка
+2018*like*любить
+2019*like*подобный
+2020*like*так
+2021*likely*вероятный
+2022*likely*вероятный
+2023*limit*ограничивать
+2024*limit*граница
+2025*limited*ограниченный
+2026*line*веревка
+2027*link*связывать
+2028*link*связь
+2029*lip*губа
+2030*liquid*жидкий
+2031*liquid*жидкость
+2032*list*список
+2033*list*составлять список
+2034*listen*слушать
+2035*liter*литр (1000 см3)
+2036*literature*литература
+2037*little*маленький
+2038*little*мало
+2039*little*понемногу
+2040*live*жить
+2041*live*живьем
+2042*live*живой
+2043*lively*яркий
+2044*living*живущий
+2045*load*грузить
+2046*load*груз
+2047*loan*заем
+2048*local*местный
+2049*locally*в определённом месте
+2050*locate*определять место
+2051*location*положение
+2052*lock*запирать (ключем)
+2053*lock*замок
+2054*logic*логика
+2055*logical*логический
+2056*lonely*одинокий
+2057*long*долго
+2058*long*длинный
+2059*look*смотреть
+2060*look*взгляд
+2061*loose*свободный
+2062*loosely*свободно
+2063*lord*господин
+2064*lose*освобождать
+2065*loss*потеря
+2066*lost*потерянный
+2067*lot*много
+2068*lot*множество
+2069*loud*громкий
+2070*loud*громкий
+2071*loudly*громко
+2072*love*любовь
+2073*love*любить
+2074*lover*любовник
+2075*low*низко
+2076*low*низкий
+2077*lower*спускать
+2078*loyal*верный
+2079*luck*фортуна
+2080*lucky*счастливый
+2081*lump*глыба
+2082*lunch*обед (днем)
+2083*lung*легкое
+2084*machine*машина
+2085*machinery*машины (произв.)
+2086*mad*бешенный
+2087*magazine*журнал (периодический)
+2088*magic*волшебный
+2089*magic*волшебство
+2090*mail*посылать посылку
+2091*mail*почта
+2092*main*главная часть
+2093*mainly*главным образом
+2094*maintain*поддерживать
+2095*major*специальность (в колледже)
+2096*major*значительный
+2097*majority*большинство
+2098*make*делать
+2099*make*изготовление
+2100*make-up*косметика
+2101*male*мужчина
+2102*male*мужской
+2103*man*человек
+2104*manage*руководить
+2105*management*управление
+2106*manager*администратор
+2107*manner*способ
+2108*manufacture*изделие
+2109*manufacture*изготовлять
+2110*manufacturer*производитель
+2111*manufacturing*производство
+2112*many*многие
+2113*many*многие
+2114*map*карта (территории)
+2115*March*март
+2116*mark*знак
+2117*mark*ставить знак
+2118*market*базар
+2119*marketing*торговля
+2120*marriage*брак
+2121*married*женатый
+2122*marry*жениться
+2123*mass*массовый
+2124*mass*масса
+2125*massive*большой
+2126*master*хозяин
+2127*match*спичка
+2128*match*подходить
+2129*matching*подходящий
+2130*mate*спариваться (о животных)
+2131*mate*напарник
+2132*material*материал
+2133*material*материальный
+2134*math*математика
+2135*mathematics*математика
+2136*matter*иметь значение
+2137*matter*вещество
+2138*maximum*максимальный
+2139*maximum*максимальное значение
+2140*may*выражает разрешение
+2141*May*май
+2142*maybe*может быть
+2143*mayor*мэр
+2144*me*мне
+2145*meal*прием пищи
+2146*mean*намереваться
+2147*meaning*значение
+2148*means*средство
+2149*meanwhile*тем временем
+2150*measure*мера
+2151*measure*измерять
+2152*measurement*снятие мерок
+2153*meat*мясо
+2154*media*СМИ
+2155*medical*медицинский
+2156*medicine*медицина
+2157*medium*средний
+2158*medium*способ
+2159*meet*встречаться
+2160*meeting*заседание
+2161*melt*таять
+2162*member*член
+2163*membership*членство
+2164*memory*память
+2165*mental*интеллектуальный
+2166*mentally*умственно
+2167*mention*упоминать
+2168*menu*меню
+2169*mere*всего лишь
+2170*merely*только
+2171*mess*беспорядок
+2172*mess*создавать безпорядок
+2173*message*сообщение
+2174*messy*неряшливый
+2175*metal*металл
+2176*meter*измеритель
+2177*method*метод
+2178*middle*середина
+2179*middle*средний
+2180*midnight*полночь
+2181*might*мог бы
+2182*mild*мягкий
+2183*mile*миля (=1892 м.)
+2184*military*военный
+2185*milk*молоко
+2186*milligram*миллиграм
+2187*millimeter*миллиметр
+2188*mind*разум
+2189*mind*заботится
+2190*mine*мой
+2191*mine*шахта
+2192*mineral*минеральный
+2193*mineral*минерал
+2194*minimum*минимальный
+2195*minimum*минимальное количество
+2196*minister*священик
+2197*ministry*министерство
+2198*minor*незначительный
+2199*minority*меньшинство
+2200*minute*минута
+2201*mirror*зеркало
+2202*Miss*мисс
+2203*miss*потерпеть неудачу
+2204*missing*недостающий
+2205*mistake*ошибка
+2206*mix*мешать
+2207*mix*смесь
+2208*mixture*смесь
+2209*mobile*подвижный
+2210*model*модель
+2211*modern*современный
+2212*mom*мама
+2213*moment*миг
+2214*Monday*понедельник
+2215*money*деньги
+2216*monitor*монитор
+2217*monitor*наставлять
+2218*month*месяц
+2219*mood*настроение
+2220*moon*луна
+2221*moral*моральный
+2222*morally*морально
+2223*more*более многочисленный
+2224*more*больше
+2225*moreover*сверх того
+2226*morning*утро
+2227*most*исключительно
+2228*most*самый большой
+2229*mostly*главным образом
+2230*mother*мать
+2231*motion*движение
+2232*motor*двигатель
+2233*motorcycle*мотоцикл
+2234*mount*подниматься
+2235*mount*холм
+2236*mountain*гора
+2237*mouse*мышь
+2238*mouth*рот
+2239*move*двигать
+2240*move*движение
+2241*movement*движение
+2242*movie*кинокартина
+2243*movie theater*кинотеатр
+2244*moving*волнующий
+2245*Mr*мистер
+2246*Mrs*миссис
+2247*Ms*мисс
+2248*much*весьма
+2249*much*обильный
+2250*mud*грязь
+2251*multiply*увеличивать
+2252*murder*убивать (умышленно)
+2253*murder*убийство (предумышленное)
+2254*muscle*мускул
+2255*museum*музей
+2256*music*музыка
+2257*musical*музыкальный
+2258*musician*музыкант
+2259*must*должен
+2260*my*мой
+2261*myself*себя
+2262*mysterious*таинственный
+2263*mystery*тайна
+2264*nail*гвоздь
+2265*naked*голый
+2266*name*имя
+2267*name*называть
+2268*narrow*узкий
+2269*nation*народ
+2270*national*народный
+2271*native*родной
+2272*natural*естественный
+2273*naturally*конечно
+2274*nature*природа
+2275*navy*ВМФ
+2276*near*возле
+2277*near*рядом
+2278*near*ближний
+2279*nearby*вблизи
+2280*nearby*близлежащий
+2281*nearly*близко
+2282*neat*четкий
+2283*neatly*аккуратно
+2284*necessarily*обязательно
+2285*necessary*необходимый
+2286*neck*шея
+2287*need*необходимость
+2288*need*нуждаться
+2289*needle*игла
+2290*negative*отрицательный
+2291*neighbor*сосед
+2292*neither*также не
+2293*neither*никакой ( ни тот
+2294*nephew*племянник
+2295*nerve*нерв
+2296*nervous*нервный
+2297*nervously*нервно
+2298*nest*гнездо
+2299*nest*гнездиться
+2300*net*сеть
+2301*network*сеть
+2302*never*никогда
+2303*nevertheless*всё же
+2304*new*новый
+2305*newly*заново
+2306*news*новости
+2307*newspaper*газета
+2308*next*ближайший (человек или предмет)
+2309*next*следующий
+2310*next*затем
+2311*nice*хороший
+2312*nicely*любезно
+2313*niece*племянница
+2314*night*ночь
+2315*no*нет
+2316*no*никакой
+2317*no one*никто
+2318*nobody*никто
+2319*nod*кивнуть головой
+2320*noise*шум
+2321*noisily*шумно
+2322*noisy*шумный
+2323*none*ни один из
+2324*nonsense*абсурд
+2325*nor*также не
+2326*normal*нормальный
+2327*normal*нормальное состояние
+2328*normally*нормально
+2329*north*сервер
+2330*north*северный
+2331*north*на север
+2332*northern*северный
+2333*nose*нос
+2334*not*не
+2335*note*заметка
+2336*note*замечать
+2337*nothing*ничего
+2338*notice*замечать
+2339*noticeable*видный
+2340*notion*мнение
+2341*novel*роман
+2342*November*ноябрь
+2343*now*сейчас
+2344*nowhere*нигде
+2345*nuclear*ядерный
+2346*number*число
+2347*numerous*многочисленный
+2348*nurse*сиделка
+2349*nut*орех
+2350*o`clock*по часам
+2351*obey*подчиняться
+2352*object*предмет
+2353*object*возражать
+2354*objective*цель
+2355*objective*объективный
+2356*observation*наблюдение
+2357*observe*наблюдать
+2358*obtain*получать
+2359*obvious*очевидный
+2360*obviously*явно
+2361*occasion*возможность
+2362*occasionally*иногда
+2363*occupied*занятый
+2364*occupy*занимать
+2365*occur*происходить
+2366*ocean*океан
+2367*October*октябрь
+2368*odd*нечетный
+2369*oddly*странно
+2370*of*указывает на
+2371*off*указывает на отдаление
+2372*off*от
+2373*offend*обижать
+2374*offense*поступок
+2375*offensive*обидный
+2376*offer*предлагать
+2377*offer*предложение
+2378*office*офис
+2379*officer*чиновник
+2380*official*чиновник
+2381*official*официальный
+2382*officially*официально
+2383*often*часто
+2384*oh*о! ах!
+2385*oil*масло
+2386*OK*все в порядке
+2387*OK*ладно
+2388*old*старый
+2389*old-fashioned*старомодный
+2390*on*на
+2391*on*указывает на продолжение действия
+2392*once*один раз
+2393*one*единственный
+2394*one*один
+2395*onion*луковица
+2396*online*подключенный
+2397*online*в подключенном режиме
+2398*only*единственный
+2399*only*только
+2400*onto*на
+2401*open*открывать
+2402*open*открытый
+2403*opening*дыра
+2404*openly*открыто
+2405*operate*работать
+2406*operation*деятельность
+2407*opinion*мнение
+2408*opponent*опонент
+2409*opportunity*удобный случай
+2410*oppose*быть против
+2411*opposing*противостоящий
+2412*opposite*противоположный
+2413*opposite*напротив
+2414*opposite*противоположность
+2415*opposite*напротив
+2416*opposition*противодействие
+2417*option*выбор
+2418*or*или
+2419*orange*оранжевый
+2420*orange*апельсин
+2421*order*порядок
+2422*order*приказывать
+2423*ordinary*обычный
+2424*organ*орган (телесный и музыкальный)
+2425*organization*организация
+2426*organize*организовывать
+2427*organized*организованный
+2428*origin*начало
+2429*original*оригинал
+2430*original*начальный
+2431*originally*по происхождению
+2432*other*другой
+2433*other*другой
+2434*otherwise*иначе
+2435*ought to*выражает должествование
+2436*ounce*унция
+2437*our*наш
+2438*ours*наш
+2439*ourselves*себя
+2440*out*вне
+2441*out*внешний
+2442*outdoor*внешний
+2443*outdoors*на улице
+2444*outer*внешний
+2445*outline*очертание
+2446*outline*очертить
+2447*output*продукция
+2448*outside*снаружи
+2449*outside*внешняя
+2450*outside*внешний
+2451*outside*вне
+2452*outstanding*выдающийся
+2453*oven*печь
+2454*over*наверх
+2455*over*над
+2456*overall*полный
+2457*overall*повсюду
+2458*overcome*превозмочь
+2459*overseas*за морем
+2460*overseas*заморский
+2461*owe*быть должным
+2462*own*свой
+2463*own*владеть
+2464*owner*владелец
+2465*p.m.*(post meridiem) после полудня
+2466*pace*темп
+2467*pack*упаковываться
+2468*pack*пачка
+2469*package*пакет
+2470*package*упаковывать
+2471*page*лист
+2472*pain*боль
+2473*painful*болезненный
+2474*paint*рисовать
+2475*paint*краска
+2476*painter*художник
+2477*painting*живопись
+2478*pair*пара
+2479*palace*дворец
+2480*pale*бледный
+2481*pan*сковорода
+2482*panel*комиссия
+2483*pants*трусы
+2484*paper*бумага
+2485*parallel*параллельный
+2486*parent*родитель
+2487*park*парковать (машину)
+2488*park*парк
+2489*parliament*парламент
+2490*part*доля
+2491*participate*участвовать
+2492*particular*редкий
+2493*particularly*очень
+2494*partly*частично
+2495*partner*партнер
+2496*partnership*сотрудничество
+2497*party*сторона в споре
+2498*pass*идти
+2499*passage*переход
+2500*passenger*пассажир
+2501*passing*прохождение
+2502*passing*мгновенный
+2503*passion*страсть
+2504*passport*паспорт
+2505*past*мимо
+2506*past*прошлое
+2507*past*мимо
+2508*past*прошлый
+2509*path*путь
+2510*patience*терпение
+2511*patient*больной
+2512*patient*терпеливый
+2513*pattern*образец
+2514*pause*делать паузу
+2515*pay*платить
+2516*pay*плата
+2517*payment*платеж
+2518*peace*мир
+2519*peaceful*мирный
+2520*peak*пик (значения или горы)
+2521*pen*ручка
+2522*penalty*наказание
+2523*pencil*карандаш
+2524*people*люди
+2525*pepper*перец
+2526*per*из расчёта на
+2527*percent*процент
+2528*percentage*процентное соотношение
+2529*perfect*совершенный
+2530*perfectly*совершенно
+2531*perform*исполнять
+2532*performance*представление
+2533*performer*исполнитель
+2534*perhaps*может быть
+2535*period*период
+2536*permanent*постоянный
+2537*permanently*надолго
+2538*permission*позволение
+2539*permit*позволять
+2540*person*человек
+2541*personal*личный
+2542*personality*личность
+2543*personally*лично
+2544*perspective*перспектива
+2545*persuade*убеждать
+2546*pet*домашнее животное
+2547*phase*фаза
+2548*philosophy*философия
+2549*phone*телефон
+2550*photo*фотография
+2551*photocopy*фотокопия
+2552*photocopy*фотокопирование
+2553*photograph*фотография
+2554*photograph*фотография
+2555*photograph*фотографировать
+2556*photographer*фотограф
+2557*photography*фотография
+2558*phrase*фраза
+2559*physical*физический
+2560*physically*физически
+2561*physics*физика (наука)
+2562*piano*фортепьяно
+2563*pick*подбирать
+2564*pick up*поднимать
+2565*picture*картина
+2566*piece*кусок
+2567*pig*свинья
+2568*pile*куча
+2569*pile*складывать в кучу
+2570*pill*таблeтка
+2571*pilot*летчик
+2572*pin*булавка
+2573*pin*прикалывать
+2574*pink*розовый цвет
+2575*pink*розового цвета
+2576*pint*пинта (0
+2577*pipe*трубка
+2578*place*помещать
+2579*place*место
+2580*plain*простой
+2581*plan*выравнивать
+2582*plan*равнина
+2583*plane*плоскость
+2584*planet*планета
+2585*planning*планирование
+2586*plant*сажать
+2587*plant*растение
+2588*plastic*пластик
+2589*plastic*пластиковый
+2590*plate*тарелка
+2591*platform*помост
+2592*play*игра
+2593*play*играть
+2594*player*игрок
+2595*pleasant*приятный
+2596*pleasantly*весело
+2597*please*радовать
+2598*please*пожалуйста
+2599*pleased*довольный
+2600*pleasure*удовольствие
+2601*plenty*вполне
+2602*plenty*обильный
+2603*plenty*(из)обилие
+2604*plenty*изобилие
+2605*plot*интрига
+2606*plot*замышлять
+2607*plug*эл. вилка
+2608*plus*плюс
+2609*plus*положительный
+2610*plus*положительная величина
+2611*pocket*карман
+2612*poem*поэма
+2613*poetry*поэзия
+2614*point*точка
+2615*point*указывать (пальцем
+2616*pointed*острый
+2617*poison*отравлять
+2618*poison*яд
+2619*poisonous*ядовитый
+2620*pole*столб
+2621*police*полиция
+2622*policy*политика
+2623*polish*глянец
+2624*polish*наводить лоск
+2625*polite*вежливый
+2626*politely*вежливо
+2627*political*политический
+2628*politician*политик
+2629*politics*политика
+2630*pollution*загрязнение
+2631*pool*лужа
+2632*poor*бедный
+2633*pop*лопаться
+2634*pop*хлопок
+2635*popular*популярный
+2636*population*население
+2637*port*гавань
+2638*pose*поза
+2639*pose*ставить
+2640*position*положение
+2641*positive*позитивный
+2642*possess*владеть
+2643*possession*владение
+2644*possibility*вероятность
+2645*possible*вероятный
+2646*possibly*возможно
+2647*post*мачта
+2648*post*сообщать
+2649*post office*почтовое отделение
+2650*pot*горшок
+2651*potato*картофелина
+2652*potential*потенциальный
+2653*potential*потенциал
+2654*potentially*потенциально
+2655*pound*фунт (= 373
+2656*pour*лить
+2657*poverty*бедность
+2658*powder*порошек
+2659*power*сила
+2660*powerful*крепкий
+2661*practical*практический
+2662*practically*практически
+2663*practice*тренироваться
+2664*practice*практика
+2665*praise*хвалить
+2666*praise*хвала
+2667*prayer*молитва
+2668*precise*точный
+2669*precisely*точно
+2670*predict*предсказывать
+2671*prefer*предпочитать
+2672*preference*предпочтение
+2673*pregnant*беременная
+2674*premises*недвижимость
+2675*preparation*подготовка
+2676*prepare*готовить
+2677*prepared*готовый
+2678*presence*присутствие
+2679*present*присутствующий
+2680*present*текущий момент
+2681*present*преподносить
+2682*presentation*презентация
+2683*preserve*сохранять
+2684*president*президент
+2685*press*нажимать
+2686*press*пресса
+2687*pressure*давление
+2688*presumably*предположительно
+2689*pretend*притворяться
+2690*pretty*довольно
+2691*pretty*милый
+2692*prevent*предотвращать
+2693*previous*предыдущий
+2694*previously*заблаговременно
+2695*price*цена
+2696*pride*гордость
+2697*priest*священник
+2698*primarily*первоначально
+2699*primary*первичный
+2700*prime minister*премьер-министр
+2701*prince*принц
+2702*princess*принцесса
+2703*principal*главный
+2704*principal*глава
+2705*principle*правило
+2706*print*печатать
+2707*print*оттиск
+2708*printer*принтер
+2709*prior*прежний
+2710*priority*приоритет
+2711*prison*тюрьма
+2712*prisoner*заключенный
+2713*private*частный
+2714*privately*неофициально
+2715*prize*награда
+2716*probable*вероятный
+2717*probably*вероятно
+2718*problem*проблема
+2719*procedure*процедура
+2720*proceed*продолжать
+2721*process*процесс
+2722*process*обрабатывать
+2723*produce*производить
+2724*producer*изготовитель
+2725*product*продукт
+2726*production*производство
+2727*profession*профессия
+2728*professional*профессиональный
+2729*professional*профессионал
+2730*professor*профессор
+2731*profile*профиль
+2732*profit*выгода
+2733*program*программа
+2734*program*программировать
+2735*progress*прогресс
+2736*progress*развиваться
+2737*project*проект
+2738*project*проектировать
+2739*promise*обещать
+2740*promise*обещание
+2741*promote*продвигать
+2742*promotion*продвижение по службе
+2743*prompt*быстрый
+2744*prompt*побуждать
+2745*promptly*быстро
+2746*pronounce*произносить
+2747*pronunciation*произношение
+2748*proof*подтверждение
+2749*proper*присущий
+2750*property*имущество
+2751*proportion*пропорция
+2752*proposal*предложение
+2753*propose*предлагать
+2754*prospect*шанс
+2755*protect*защищать
+2756*protection*защита
+2757*protest*протест
+2758*protest*протестовать
+2759*proud*гордый
+2760*proudly*гордо
+2761*prove*доказывать
+2762*provide*снабжать
+2763*provided*при условии
+2764*public*общественный
+2765*public*публика
+2766*publication*издание
+2767*publicity*гласность
+2768*publicly*публично
+2769*publish*публиковать
+2770*publishing*издательский
+2771*pull*тянуть
+2772*pull*рывок
+2773*punch*ударять кулаком
+2774*punch*ударять кулаком
+2775*punish*наказывать
+2776*punishment*кара
+2777*purchase*покупать
+2778*purchase*покупка
+2779*pure*чистый
+2780*purple*пурпурный цвет
+2781*purple*пурпурный
+2782*purpose*цель
+2783*pursue*гнаться
+2784*push*толкать
+2785*push*толчек
+2786*put*класть
+2787*qualification*квалификация
+2788*qualified*компетентный
+2789*qualify*обучать
+2790*quality*качество
+2791*quantity*количество
+2792*quarter*четверть
+2793*queen*королева
+2794*question*спрашивать
+2795*question*вопрос
+2796*quick*быстрый
+2797*quickly*быстро
+2798*quiet*тихий
+2799*quietly*спокойно
+2800*quite*вполне
+2801*quote*цитировать
+2802*race*гонка
+2803*race*мчатся
+2804*racing*гонки
+2805*radio*радио
+2806*rail*перила
+2807*railroad*железная дорога
+2808*rain*идти
+2809*rain*дождь
+2810*raise*поднимать
+2811*range*сфера
+2812*rank*шеренга
+2813*rank*строится в шеренгу (по рангу)
+2814*rapid*быстрый
+2815*rapidly*быстро
+2816*rare*редкий
+2817*rarely*редко
+2818*rate*норма
+2819*rate*оценивать
+2820*rather*лучше
+2821*raw*сырой
+2822*reach*достигать
+2823*react*реагировать
+2824*reaction*реакция
+2825*read*читать
+2826*reader*читатель
+2827*reading*чтение
+2828*ready*готовый
+2829*real*реальный
+2830*realistic*реалистичный
+2831*reality*действительность
+2832*realize*понимать
+2833*really*действительно
+2834*rear*задний
+2835*rear*задняя сторона
+2836*reason*причина
+2837*reasonable*разумный
+2838*reasonably*разумно
+2839*recall*вспоминать
+2840*receipt*квитанция
+2841*receive*получать
+2842*recent*недавний
+2843*recently*недавно
+2844*reception*прием (тв
+2845*recognition*узнавание
+2846*recognize*узнавать
+2847*recommend*рекомендовать
+2848*recommendation*рекомендация
+2849*record*записывать
+2850*record*запись
+2851*recording*звуко-видео запись
+2852*recover*возвращать
+2853*recovery*выздоровление
+2854*red*красный цвет или краска
+2855*red*красный
+2856*reduce*ослаблять
+2857*reduction*снижение
+2858*refer*направлять
+2859*reference*ссылка
+2860*reflect*отражать
+2861*reform*реформа
+2862*reform*реформировать
+2863*refrigerator*холодильник
+2864*refusal*отказ
+2865*refuse*отвергать
+2866*regard*внимание
+2867*regard*относится
+2868*regarding*относительно
+2869*region*пространство
+2870*regional*региональный
+2871*register*журнал
+2872*register*регистрировать
+2873*regret*сожалеть
+2874*regret*сожаление
+2875*regular*регулярный
+2876*regularly*правильно
+2877*regulation*правило
+2878*reject*отвергать
+2879*related*родственный
+2880*relation*отношение
+2881*relationship*отношение
+2882*relative*относительный
+2883*relative*родственник
+2884*relatively*относительно
+2885*relax*ослаблять
+2886*relaxed*расслабленный
+2887*relaxing*расслабляющий
+2888*release*избавлять
+2889*relevant*значимый
+2890*relief*облегчение
+2891*religion*религия
+2892*religious*религиозный
+2893*rely*полагаться
+2894*remain*оставаться
+2895*remaining*остающийся
+2896*remains*остаток
+2897*remark*замечание
+2898*remarkable*замечательный
+2899*remarkably*замечательно
+2900*remember*помнить
+2901*remind*напоминать
+2902*remote*отдаленный
+2903*removal*удаление
+2904*remove*передвигать
+2905*rent*арендная плата
+2906*rent*арендовать
+2907*repair*ремонт
+2908*repair*ремонтировать
+2909*repeat*повторять
+2910*repeated*повторяющийся
+2911*repeatedly*часто
+2912*replace*заменять (место)
+2913*reply*отвечать
+2914*reply*ответ
+2915*report*отчет
+2916*report*сообщать
+2917*reporter*докладчик
+2918*represent*изображать
+2919*representative*образец
+2920*representative*отображающий
+2921*reproduce*рождать
+2922*reputation*репутация
+2923*request*просьба
+2924*request*просить
+2925*require*нуждаться
+2926*requirement*требование
+2927*rescue*спасать
+2928*research*исследование
+2929*research*исследовать
+2930*reservation*оставление
+2931*reserve*запас
+2932*reserve*запасать
+2933*resident*постоянно проживающее лицо
+2934*resident*проживающий
+2935*resist*сопротивляться
+2936*resistance*сопротивление
+2937*resolve*решать
+2938*resort*курорт
+2939*resource*ресурс
+2940*respect*уважать
+2941*respect*уважение
+2942*respond*отвечать
+2943*response*ответ
+2944*responsibility*ответственность
+2945*responsible*ответственный
+2946*rest*отдыхать
+2947*rest*покой
+2948*restaurant*ресторан
+2949*restore*возвращать
+2950*restrict*ограничивать
+2951*restricted*ограниченный
+2952*restriction*ограничение
+2953*result*результат
+2954*result*следовать
+2955*retain*держать
+2956*retire*уходить в отставку
+2957*retired*отставной
+2958*retirement*отставка
+2959*return*возвращать
+2960*return*возвращение
+2961*reveal*открывать
+2962*reverse*переворачивать
+2963*reverse*противоположное
+2964*review*обзор
+2965*review*обозревать
+2966*revise*проверять
+2967*revision*ревизия
+2968*revolution*переворот
+2969*reward*награда
+2970*reward*награждать
+2971*rhythm*ритм
+2972*rice*рис
+2973*rich*богатый
+2974*rid*освобождать
+2975*ride*езда
+2976*ride*ехать
+2977*rider*всадник
+2978*ridiculous*нелепый
+2979*riding*верховая езда
+2980*right*правильно
+2981*right*правота
+2982*right*правильный
+2983*rightly*правильно
+2984*ring*кольцо
+2985*ring*опоясывать
+2986*rise*восходить
+2987*rise*повышение
+2988*risk*опасность
+2989*risk*рисковать
+2990*rival*соперник
+2991*rival*соперничающий
+2992*river*река
+2993*road*дорога
+2994*rob*грабить
+2995*rock*скала
+2996*role*роль
+2997*roll*катиться
+2998*roll*свиток
+2999*romantic*романтичный
+3000*roof*крыша
+3001*room*комната
+3002*root*корень
+3003*rope*канат
+3004*rose*роза
+3005*rough*грубый
+3006*roughly*приблизительно
+3007*round*круглый
+3008*round*круглый
+3009*route*дорога
+3010*routine*обычный порядок
+3011*routine*определенный
+3012*row*ряд
+3013*royal*царский
+3014*rub*тереться
+3015*rubber*резина
+3016*rude*грубый
+3017*rudely*неистово
+3018*ruin*разрушать
+3019*ruin*развалина
+3020*ruined*разрушенный
+3021*rule*править
+3022*rule*правило
+3023*ruler*линейка
+3024*rumor*молва
+3025*run*бег
+3026*run*бежать
+3027*runner*бегун
+3028*running*беготня
+3029*rural*деревенский
+3030*rush*стремится
+3031*rush*бросок
+3032*sack*мешок
+3033*sad*грустный
+3034*sadly*печально
+3035*sadness*грусть
+3036*safe*безопасный
+3037*safely*безопасно
+3038*safety*безопасность
+3039*sail*плавать
+3040*sailing*мореплавание
+3041*sailor*матрос
+3042*salad*салат
+3043*salary*зарплата
+3044*sale*продажа
+3045*salt*соль
+3046*salty*соленый
+3047*same*одно и тоже
+3048*same*тот (же) самый
+3049*sample*образец
+3050*sand*песок
+3051*satisfaction*удовлетворение
+3052*satisfied*довольный
+3053*satisfy*удовлетворять
+3054*Saturday*суббота
+3055*sauce*соус
+3056*save*спасать
+3057*saving*экономия
+3058*say*говорить
+3059*scale*шкала
+3060*scare*пугать
+3061*scare*испуг
+3062*scared*испуганный
+3063*scary*жуткий
+3064*scene*сцена
+3065*schedule*список
+3066*school*школа
+3067*science*наука
+3068*scientific*научный
+3069*scientist*ученый
+3070*scissors*ножницы
+3071*score*вести счет
+3072*score*счет (в игре)
+3073*scratch*царапать
+3074*scratch*царапина
+3075*scream*вопль
+3076*scream*пронзительно кричать
+3077*screen*ширма
+3078*screw*шуруп
+3079*screw*прикручивать
+3080*sea*море
+3081*seal*тюлень
+3082*seal*скреплять
+3083*search*поиск(и)
+3084*search*искать
+3085*season*время года
+3086*seat*сиденье
+3087*second*второй
+3088*second*мгновение
+3089*second*во-вторых
+3090*secondary*вторичный
+3091*secret*секретный
+3092*secret*секрет
+3093*secretary*секретарь
+3094*secretly*в тайне
+3095*section*секция
+3096*sector*сектор
+3097*secure*надежный
+3098*secure*охранять
+3099*security*безопастность
+3100*see*видеть
+3101*seed*семя
+3102*seek*искать
+3103*seem*казаться
+3104*select*выбирать
+3105*selection*выбор
+3106*self*собственная личность
+3107*sell*продавать
+3108*semester*семестр
+3109*senate*сенат
+3110*senator*сенатор
+3111*send*посылать
+3112*senior*старший
+3113*senior*старшекласник
+3114*sense*чувство
+3115*sensible*благоразумный
+3116*sensitive*чувствительный
+3117*sentence*предложение
+3118*separate*отдельный
+3119*separate*разлучать
+3120*separated*разделенный
+3121*separately*отдельно
+3122*separation*отделение
+3123*September*сентябрь
+3124*series*ряд
+3125*serious*серьёзный
+3126*seriously*серьёзно
+3127*servant*слуга
+3128*serve*служить
+3129*service*служба
+3130*session*сессия
+3131*set*ставить
+3132*set*комплект
+3133*settle*разрешить
+3134*several*некоторые
+3135*several*несколько
+3136*severe*строгий
+3137*severely*строго
+3138*sew*шить
+3139*sex*пол
+3140*sexual*половой
+3141*sexually*сексуально
+3142*shade*тень
+3143*shadow*тень
+3144*shake*трясти
+3145*shake*встряска
+3146*shall*должен быть (обозначает будущее)
+3147*shallow*мелкий
+3148*shame*стыд
+3149*shape*придавать форму
+3150*shape*форма
+3151*shaped*имеющий определенную форму
+3152*share*делить
+3153*share*доля
+3154*sharp*острый
+3155*sharply*круто
+3156*shave*off - брить
+3157*she*она
+3158*sheep*овца
+3159*sheet*простыня
+3160*shelf*полка
+3161*shell*скорлупа
+3162*shelter*убежище
+3163*shelter*приютить
+3164*shift*перемещать
+3165*shift*изменение
+3166*shine*светить
+3167*shiny*солнечный
+3168*ship*корабль
+3169*shirt*рубашка
+3170*shock*удар
+3171*shock*поражать
+3172*shocked*потрясенный
+3173*shocking*потрясающий
+3174*shoe*туфля
+3175*shoot*стрелять
+3176*shooting*стрельба
+3177*shop*делать покупки
+3178*shopping*покупка товаров
+3179*short*короткий
+3180*shortly*коротко
+3181*shot*выстрел
+3182*should*для выражения будущего (должен
+3183*shoulder*плечо
+3184*shout*кричать
+3185*shout*возглас
+3186*show*спектакль
+3187*show*показывать
+3188*shower*душ
+3189*shut*закрывать
+3190*shy*застенчивый
+3191*sick*больной
+3192*side*сторона
+3193*sideways*боковой
+3194*sideways*в сторону
+3195*sight*зрение
+3196*sign*подписывать
+3197*sign*знак
+3198*signal*знак
+3199*signature*подпись
+3200*significant*значительный
+3201*significantly*многозначительно
+3202*silence*тишина
+3203*silent*безмолвный
+3204*silk*шелк
+3205*silly*глупый
+3206*silver*серебро
+3207*silver*серебряный
+3208*similar*подобный
+3209*simple*простой
+3210*simply*легко
+3211*since*с тех пор как
+3212*since*с
+3213*since*тому назад
+3214*sincere*искренний
+3215*sincerely*искренне
+3216*sing*петь
+3217*singer*певец
+3218*singing*пение
+3219*single*один
+3220*sink*тонуть
+3221*sir*сэр
+3222*sister*сестра
+3223*sit*сидеть
+3224*site*место
+3225*situation*обстановка
+3226*size*размер
+3227*skill*умение
+3228*skilled*квалифицированный
+3229*skillful*умелый
+3230*skillfully*мастерски
+3231*skin*кожа(человека)
+3232*skirt*юбка
+3233*sky*небеса
+3234*sleep*засыпать
+3235*sleep*сон
+3236*sleeve*рукав
+3237*slice*ломтик
+3238*slide*скользить
+3239*slight*незначительный
+3240*slightly*мало
+3241*slip*подскользнуться
+3242*slope*наклон
+3243*slope*спускаться
+3244*slow*медленный
+3245*slowly*медленно
+3246*small*маленький
+3247*smart*умный
+3248*smash*шум
+3249*smash*крушить
+3250*smell*чуять
+3251*smell*запах
+3252*smile*улыбка
+3253*smile*улыбаться
+3254*smoke*дымиться
+3255*smoke*дым
+3256*smoking*курение
+3257*smooth*гладкий
+3258*smoothly*гладко
+3259*snake*змея
+3260*snow*идти
+3261*snow*снег
+3262*so*так
+3263*so*так что
+3264*soap*мыло
+3265*social*общественный
+3266*socially*неофициально
+3267*society*общество
+3268*sock*носок
+3269*soft*мягкий
+3270*softly*мягко
+3271*software*программное обеспечение
+3272*soil*грунт
+3273*soldier*солдат
+3274*solid*твердое тело
+3275*solid*твердый
+3276*solution*решение
+3277*solve*решать
+3278*some*какой-нибудь
+3279*some*около
+3280*somebody*кто-нибудь
+3281*somehow*как-нибудь
+3282*someone*кто-нибудь
+3283*something*кое-что
+3284*sometimes*иногда
+3285*somewhat*отчасти
+3286*somewhere*где-то
+3287*son*сын
+3288*song*песня
+3289*soon*скоро
+3290*sore*больной
+3291*sorry*огорченный
+3292*sorry*виноват! простите!
+3293*sort*вид
+3294*sort*сортировать
+3295*soul*душа
+3296*sound*звук
+3297*sound*звучать
+3298*soup*суп
+3299*sour*кислый
+3300*source*источник
+3301*south*юг
+3302*south*на юг
+3303*south*южный
+3304*southern*южанин
+3305*space*пространство
+3306*spare*запасной
+3307*speak*говорить
+3308*speaker*говорящий
+3309*special*особый
+3310*specialist*знаток
+3311*specially*специально
+3312*species*вид
+3313*specific*особенный
+3314*specifically*особенно
+3315*speech*речь
+3316*speed*скорость
+3317*spell*писать или произносить (слово) по буквам
+3318*spell*срок
+3319*spelling*орфография
+3320*spend*тратить
+3321*spice*специя
+3322*spicy*острый
+3323*spider*паук
+3324*spill*проливать
+3325*spin*крутить
+3326*spirit*дух
+3327*spiritual*духовный
+3328*spite*злоба
+3329*split*разрыв
+3330*split*раскалывать
+3331*spoil*портить
+3332*spoken*устный
+3333*spoon*ложка
+3334*sport*спорт
+3335*spot*пятнышко
+3336*spray*мелкие брызги
+3337*spread*развертывать
+3338*spring*весна
+3339*square*квадратный
+3340*square*квадрат
+3341*squeeze*сжатие
+3342*squeeze*сжимать
+3343*stable*стойкий
+3344*stable*конюшня
+3345*staff*штат служащих
+3346*stage*арена
+3347*stair*ступенька
+3348*stamp*штамп
+3349*stamp*топнуть ногой
+3350*stand*подставка
+3351*stand*стоять
+3352*standard*норма
+3353*standard*стандартный
+3354*star*звезда
+3355*star*играть в главных ролях
+3356*stare*вглядываться
+3357*stare*пристальный взгляд
+3358*start*начинать
+3359*start*начало
+3360*state*заставлять
+3361*state*состояние
+3362*state*парадный
+3363*statement*заявление
+3364*station*место
+3365*statue*статуя
+3366*status*положение
+3367*stay*останавливаться
+3368*stay*остановка
+3369*steadily*устойчиво
+3370*steady*устойчивый
+3371*steal*воровать
+3372*steam*пар
+3373*steel*сталь
+3374*steep*крутой
+3375*steeply*круто
+3376*steer*управлять (авто и тд.)
+3377*step*ступать
+3378*step*шаг
+3379*stick*палка
+3380*stick*втыкать
+3381*sticky*клейкий
+3382*stiff*жесткий
+3383*still*бесшумный
+3384*still*до сих пор
+3385*sting*жалить
+3386*sting*жало
+3387*stir*размешивать
+3388*stock*запас
+3389*stomach*желудок
+3390*stone*камень
+3391*stop*останавливаться
+3392*stop*остановка
+3393*store*снабжать
+3394*store*запас
+3395*storm*буря
+3396*story*повесть
+3397*stove*печь 
+3398*straight*не изогнутый
+3399*straight*прямо
+3400*strange*чужой
+3401*strangely*странно
+3402*stranger*незнакомец
+3403*strategy*стратегия
+3404*stream*поток
+3405*street*улица
+3406*strength*сила
+3407*stress*давление
+3408*stress*подчёркивать
+3409*stressed*ударный
+3410*stretch*тянуться
+3411*strict*строгий
+3412*strictly*строго
+3413*strike*забастовка
+3414*strike*бить
+3415*striking*поразительный
+3416*string*веревка
+3417*strip*раздевать
+3418*strip*полоса
+3419*striped*полосатый
+3420*stroke*гладить
+3421*stroke*удар
+3422*strong*сильный
+3423*strongly*сильно
+3424*structure*строение
+3425*struggle*борьба
+3426*struggle*бороться
+3427*student*студент
+3428*studio*студия
+3429*study*изучать
+3430*study*изучение
+3431*stuff*материал
+3432*stupid*глупый
+3433*style*стиль
+3434*subject*тема
+3435*substance*вещество
+3436*substantial*крепкий
+3437*substantially*существенно
+3438*substitute*заменять
+3439*substitute*заместитель
+3440*succeed*преуспевать
+3441*success*удача
+3442*successful*благополучный
+3443*successfully*успешно
+3444*such*такой
+3445*such*таковой
+3446*suck*сосать
+3447*sudden*внезапный
+3448*suddenly*вдруг
+3449*suffer*страдать
+3450*suffering*страдание
+3451*sufficient*достаточный
+3452*sufficiently*достаточно
+3453*sugar*сахар
+3454*suggest*предлагать
+3455*suggestion*предложение
+3456*suit*костюм
+3457*suit*подходить
+3458*suitable*подходящий
+3459*sum*сумма
+3460*summary*краткое изложение
+3461*summer*лето
+3462*sun*солнце
+3463*Sunday*воскресенье
+3464*superior*высший
+3465*supermarket*универсам
+3466*supply*снабжение
+3467*support*поддерживать (информ)
+3468*support*поддержка
+3469*supporter*сторонник
+3470*suppose*полагать
+3471*sure*уверенный
+3472*sure*конечно
+3473*surely*конечно
+3474*surface*поверхность
+3475*surgery*хирургия
+3476*surprise*удивление
+3477*surprise*изумлять
+3478*surprised*изумленный
+3479*surprising*внезапный
+3480*surprisingly*удивительно
+3481*surround*окружать
+3482*surrounding*ближний
+3483*surroundings*окрестности
+3484*survey*опрос
+3485*survey*проводить опрос
+3486*survive*пережить
+3487*suspect*подозревать
+3488*suspect*подозреваемый
+3489*suspicion*подозрение
+3490*suspicious*подозрительный
+3491*swallow*глотать
+3492*swear*клясться
+3493*sweat*потеть
+3494*sweat*испарина
+3495*sweater*свитер
+3496*sweep*мести
+3497*sweet*сладкий
+3498*sweet*конфета
+3499*swell*усиливаться
+3500*swelling*опухоль
+3501*swim*плавать
+3502*swimming*плавание
+3503*swimming pool*плавательный бассейн
+3504*swing*качели
+3505*swing*качаться
+3506*switch*выключать
+3507*switch*выключатель
+3508*swollen*вздутый
+3509*symbol*символ
+3510*sympathetic*сочувствующий
+3511*sympathy*симпатия
+3512*system*система
+3513*table*стол
+3514*tablet*таблетка
+3515*tackle*блокировка (игрока)
+3516*tackle*заниматься (проблемой)
+3517*tail*хвост
+3518*take*брать
+3519*tale*сказка
+3520*talent*талант
+3521*talk*разговор
+3522*talk*разговаривать
+3523*tall*высокий (человек
+3524*tank*бак
+3525*tap*постукивать
+3526*tap*лёгкий стук
+3527*tape*тесьма
+3528*target*цель
+3529*task*урочная работа
+3530*taste*вкус
+3531*taste*пробовать
+3532*tax*налог
+3533*tax*облагать налогом
+3534*taxi*такси
+3535*tea*чай
+3536*teach*учить
+3537*teacher*учитель
+3538*teaching*обучение
+3539*team*команда
+3540*tear*слеза
+3541*tear*рвать
+3542*tear*слеза
+3543*technical*технический
+3544*technique*техника
+3545*technology*техника
+3546*telephone*телефон
+3547*television*телевидение
+3548*tell*говорить
+3549*temperature*температура
+3550*temporarily*временно
+3551*temporary*временный
+3552*tend*клонится
+3553*tendency*тенденция
+3554*tension*напряжение
+3555*tent*палатка
+3556*term*срок
+3557*term*выражение
+3558*terrible*внушающий страх
+3559*terribly*страшно
+3560*terror*страх
+3561*terrorist*террорист
+3562*test*проверка
+3563*test*проверять
+3564*text*текст
+3565*than*чем
+3566*than*чем
+3567*thank*благодарить
+3568*thank you*спасибо
+3569*thanks*благодарность
+3570*that*что
+3571*that*тот
+3572*the*определенный артикль
+3573*theater*театр
+3574*their*их
+3575*theirs*их
+3576*them*они
+3577*theme*тема
+3578*themselves*себя
+3579*then*тогда
+3580*theory*теория
+3581*there*там
+3582*therefore*по этой причине
+3583*these*этот
+3584*these*этот
+3585*they*они
+3586*thick*толстый
+3587*thickly*толсто
+3588*thickness*толщина
+3589*thief*вор
+3590*thin*тонкий
+3591*thing*вещь
+3592*think*думать
+3593*thinking*размышление
+3594*thirsty*томимый жаждой
+3595*this*этот
+3596*this*этот
+3597*those*эти
+3598*those*те
+3599*though*тем не менее
+3600*though*хотя
+3601*thought*мысль
+3602*thread*нитка
+3603*threat*опасность
+3604*threaten*грозить
+3605*threatening*грозящий
+3606*throat*горло
+3607*through*через
+3608*through*насквозь
+3609*throughout*через
+3610*throughout*повсюду
+3611*throw*бросать
+3612*thumb*большой палец (руки
+3613*Thursday*четверг
+3614*thus*так
+3615*ticket*билет
+3616*tie*завязывать
+3617*tie*лента
+3618*tight*тесно
+3619*tight*тугой
+3620*tightly*наглухо
+3621*time*время
+3622*timetable*расписание
+3623*tin*олово
+3624*tiny*крошечный
+3625*tip*наклоняться
+3626*tip*кончик
+3627*tire*покрышка
+3628*tire*утомляться
+3629*tired*усталый
+3630*tiring*изнурительный
+3631*title*заглавие
+3632*to*инфинитивная частица
+3633*to*к
+3634*today*сегодня
+3635*today*сегодняшний день
+3636*toe*палец ноги
+3637*together*вместе
+3638*toilet*туалет
+3639*tomato*помидор
+3640*tomorrow*завтра
+3641*tomorrow*завтрашний день
+3642*ton*тонна
+3643*tone*звук
+3644*tongue*язык
+3645*tonight*сегодняшний вечер
+3646*tonight*сегодня вечером
+3647*too*излишне
+3648*tool*инструмент
+3649*tooth*зуб
+3650*top*верхний
+3651*top*верхушка
+3652*topic*тема
+3653*total*целое
+3654*total*весь
+3655*totally*полностью
+3656*touch*касаться
+3657*touch*прикосновение
+3658*tough*жёсткий
+3659*tour*путешествие
+3660*tourist*турист
+3661*toward*по направлению
+3662*toward*по направлению
+3663*towel*полотенце
+3664*tower*башня
+3665*town*город (небольшой)
+3666*toy*забава
+3667*toy*игрушечный
+3668*trace*след
+3669*trace*следовать
+3670*track*след
+3671*trade*торговля
+3672*trade*торговать
+3673*tradition*традиция
+3674*traditional*традиционный
+3675*traditionally*по традиции
+3676*traffic*движение
+3677*train*поезд
+3678*train*тренироваться
+3679*training*воспитание
+3680*transfer*перенос
+3681*transfer*переносить
+3682*transform*изменять
+3683*transition*эволюция
+3684*translate*переводить
+3685*translation*перевод
+3686*transparent*прозрачный
+3687*transport*перевозить
+3688*transport*перевозка
+3689*transportation*перевозка
+3690*trap*удерживать
+3691*trap*капкан
+3692*trash*хлам
+3693*travel*путешествовать
+3694*travel*путешествие (далекое)
+3695*traveler*путешественник
+3696*treat*обращаться
+3697*treat*удовольствие
+3698*treatment*лечение
+3699*tree*дерево
+3700*trend*курс
+3701*trial*испытание
+3702*triangle*треугольник
+3703*trick*обман
+3704*trick*обманывать
+3705*trip*идти быстро
+3706*trip*путешествие
+3707*troop*отряд
+3708*tropical*тропический
+3709*trouble*беспокойство
+3710*truck*грузовик
+3711*true*верный
+3712*truly*правдиво
+3713*trust*вера
+3714*trust*верить
+3715*truth*правда
+3716*try*пытаться
+3717*tube*труба
+3718*Tuesday*вторник
+3719*tune*мелодия
+3720*tune*настраивать (инструмент)
+3721*tunnel*тоннель
+3722*turn*вращение
+3723*turn*поворачивать
+3724*TV*телевидение
+3725*twice*дважды
+3726*twist*обвивать
+3727*twisted*скрученный
+3728*type*тип
+3729*type*писать
+3730*typical*типичный
+3731*typically*типично
+3732*ugly*безобразный
+3733*ultimate*последний
+3734*ultimately*окончательно
+3735*umbrella*зонт
+3736*unable*неспособный
+3737*unacceptable*недопустимый
+3738*uncertain*неопределённый
+3739*uncle*дядя
+3740*uncomfortable*неудобный
+3741*unconscious*не осознающий
+3742*uncontrolled*неуправляемый
+3743*under*вниз
+3744*under*под
+3745*underground*подземный
+3746*underground*под землей
+3747*underneath*внизу
+3748*underneath*под (чем то)
+3749*understand*понимать
+3750*understanding*понимание
+3751*underwater*под водой
+3752*underwater*подводный
+3753*underwear*подземные воды
+3754*unemployed*безработный
+3755*unemployment*безработица
+3756*unexpected*неожиданный
+3757*unexpectedly*негаданно
+3758*unfair*несправедливый
+3759*unfairly*несправедливо
+3760*unfortunate*неудачливый
+3761*unfortunately*к несчастью
+3762*unfriendly*враждебный
+3763*unhappiness*несчастье
+3764*unhappy*несчастный
+3765*uniform*форма (одежды)
+3766*unimportant*неважный
+3767*union*объединение
+3768*unique*уникальный
+3769*unit*единица
+3770*unite*объединять
+3771*united*соединённый
+3772*universal*универсальный
+3773*universe*вселенная
+3774*university*университет
+3775*unkind*злой
+3776*unknown*неизвестный
+3777*unless*если не
+3778*unlike*в отличие от
+3779*unlike*разный
+3780*unlikely*маловероятно
+3781*unload*разгружать
+3782*unlucky*неудачный
+3783*unnecessary*излишний
+3784*unpleasant*неприятный
+3785*unreasonable*бессмысленно
+3786*unsteady*неустойчивый
+3787*unsuccessful*безуспешный
+3788*until*(до тех пор) пока (не)
+3789*until*до
+3790*unusual*необыкновенный
+3791*unusually*небывало
+3792*unwilling*нерасположенный
+3793*unwillingly*неохотно
+3794*up*вверх
+3795*up*вверх по
+3796*upon*на
+3797*upper*верхний
+3798*upset*опрокидывать
+3799*upset*расстроенный
+3800*upside down*вверх дном
+3801*upstairs*вверх (по лестнице)
+3802*upstairs*находящийся на верху
+3803*upstairs*верхний этаж
+3804*upward*направленный вверх
+3805*urban*городской
+3806*urge*подгонять
+3807*urge*порыв
+3808*urgent*срочный
+3809*us*нас
+3810*use*использовать
+3811*use*использование
+3812*used*подержанный
+3813*useful*полезный
+3814*useless*бесполезный
+3815*user*пользователь
+3816*usual*обыкновенный
+3817*usually*обычно
+3818*vacation*каникулы
+3819*valid*действительный
+3820*valley*долина
+3821*valuable*ценный
+3822*value*ценность
+3823*van*фургон
+3824*variation*изменение
+3825*varied*различный
+3826*variety*многообразие
+3827*various*различный
+3828*vary*изменять
+3829*vast*огромный
+3830*vegetable*овощ
+3831*vehicle*транспортное средство
+3832*venture*рискованное начинание
+3833*version*версия
+3834*vertical*вертикальный
+3835*very*весьма
+3836*via*через
+3837*victim*жертва
+3838*victory*победа
+3839*video*видео
+3840*view*вид
+3841*view*осматривать
+3842*violence*жестокость
+3843*violent*интенсивный
+3844*violently*жестоко
+3845*virtually*фактически
+3846*virus*вирус
+3847*visible*видимый
+3848*vision*зрение
+3849*visit*посещение
+3850*visit*посещать
+3851*visitor*посетитель
+3852*vital*жизненный
+3853*vocabulary*лексикон
+3854*voice*голос
+3855*volume*объем
+3856*vote*голос (на выборах)
+3857*vote*голосовать
+3858*wage*зарплата
+3859*waist*талия
+3860*wait*ждать
+3861*waiter*официант
+3862*waitress*официантка
+3863*wake*просыпаться
+3864*walk*шаг
+3865*walk*идти
+3866*walking*ходьба
+3867*wall*стена
+3868*wallet*бумажник
+3869*wander*прохаживаться
+3870*wander*странствие
+3871*want*желать
+3872*war*война
+3873*warm*теплый
+3874*warm*греть
+3875*warmth*тепло
+3876*warn*предупреждать
+3877*warning*предупреждение
+3878*wash*мыть
+3879*waste*ненужный
+3880*waste*терять даром
+3881*waste*растрата
+3882*watch*смотреть
+3883*watch*часы (наручные)
+3884*water*вода
+3885*wave*развеваться
+3886*wave*вал
+3887*way*путь
+3888*we*мы
+3889*weak*слабый
+3890*weakness*слабость
+3891*wealth*богатство
+3892*weapon*орудие
+3893*wear*носить
+3894*weather*погода
+3895*web*паутина
+3896*website*веб-сайт
+3897*wedding*свадьба
+3898*Wednesday*среда
+3899*week*неделя
+3900*weekend*выходные дни
+3901*weekly*еженедельный
+3902*weigh*взвешивать
+3903*weight*вес
+3904*weird*странный
+3905*welcome*приветствовать
+3906*welcome*желанный
+3907*welcome*добро пожаловать! милости просим!
+3908*welcome*приветствие
+3909*well*здоровый
+3910*well*хорошо
+3911*well*ну!
+3912*well known*общеизвестный
+3913*west*запад
+3914*west*западный
+3915*west*к западу
+3916*western*западный
+3917*wet*мокрый
+3918*what*что? каков? кто?
+3919*whatever*все что
+3920*whatever*какой бы ни
+3921*wheel*колесо
+3922*when*когда?
+3923*when*когда
+3924*whenever*всякий раз
+3925*where*туда
+3926*where*где? куда? откуда? как?
+3927*whereas*тогда как
+3928*wherever*где? куда? где бы (то) ни было
+3929*whether*ли
+3930*which*который? какой? кто?
+3931*while*пока
+3932*while*время
+3933*whisper*шептать
+3934*whisper*шёпот
+3935*whistle*свисток
+3936*whistle*свистеть
+3937*white*белый
+3938*white*белый цвет или краска
+3939*who*кто? который?
+3940*whoever*кто бы ни
+3941*whole*весь
+3942*whole*все
+3943*whose*чей
+3944*why*почему?
+3945*wide*широкий
+3946*widely*широко
+3947*width*ширина
+3948*wife*жена
+3949*wild*дикий
+3950*wildly*дико
+3951*will*воля
+3952*will*буду (образует будущее время)
+3953*willing*готовый (сделать что-л.)
+3954*willingly*охотно
+3955*willingness*готовность
+3956*win*победить
+3957*wind*ветер
+3958*wind*наматывать
+3959*window*окно
+3960*wine*вино
+3961*wing*крыло
+3962*winner*победитель
+3963*winning*выигрывающий
+3964*winter*зима
+3965*wire*проволока
+3966*wish*желание
+3967*wish*желать
+3968*with*с
+3969*withdraw*удаляться
+3970*within*в
+3971*without*без
+3972*witness*свидетель
+3973*witness*быть свидетелем (чего-л.)
+3974*woman*женщина
+3975*wonder*удивляться
+3976*wonderful*замечательный
+3977*wood*дерево
+3978*wooden*деревянный
+3979*wool*шерсть
+3980*word*слово
+3981*work*работать
+3982*work*работа
+3983*worker*рабочий
+3984*working*рабочий
+3985*world*мир
+3986*worried*озабоченный
+3987*worry*надоедать
+3988*worry*беспокоиться
+3989*worrying*волнующий
+3990*worse*хуже
+3991*worse*худший
+3992*worship*вероисповедание
+3993*worship*поклоняться
+3994*worst*хуже всего
+3995*worst*наихудшее
+3996*worst*наихудший
+3997*worth*худший
+3998*would*мог бы
+3999*wound*рана
+4000*wound*ранить
+4001*wounded*раненный
+4002*wrap*завертывать
+4003*wrist*запястье
+4004*write*писать
+4005*writer*писатель
+4006*writing*писание
+4007*written*записанный
+4008*wrong*неверно
+4009*wrong*неправильный
+4010*wrongly*незаслуженно
+4011*yard*внутренний двор
+4012*yawn*зевок
+4013*yawn*зевать
+4014*yeah*да
+4015*year*год
+4016*yellow*жёлтый цвет или краска
+4017*yellow*желтизна
+4018*yes*да
+4019*yes*утвердительный ответ
+4020*yesterday*вчера
+4021*yesterday*вчерашний день
+4022*yet*еще
+4023*yet*однако
+4024*you*вы
+4025*young*молодой
+4026*your*ваш
+4027*yours*ваш
+4028*yourself*себя
+4029*youth*молодость
+4030*zero*ноль
+4031*zone*зона

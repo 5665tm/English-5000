@@ -1,0 +1,5 @@
+D:\Desktop\English-5000\Dictionaries\ParseDic12500\ParseDic12500\bin\Debug\ParseDic12500.exe
+D:\Desktop\English-5000\Dictionaries\ParseDic12500\ParseDic12500\bin\Debug\ParseDic12500.pdb
+D:\Desktop\English-5000\Dictionaries\ParseDic12500\ParseDic12500\obj\Debug\ParseDic12500.csprojResolveAssemblyReference.cache
+D:\Desktop\English-5000\Dictionaries\ParseDic12500\ParseDic12500\obj\Debug\ParseDic12500.exe
+D:\Desktop\English-5000\Dictionaries\ParseDic12500\ParseDic12500\obj\Debug\ParseDic12500.pdb
